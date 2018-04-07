@@ -10,16 +10,28 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby", "alanmarcell", "react", "fullstack"
+    "gatsby",
+    "alanmarcell",
+    "react",
+    "fullstack"
   ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
+    "precommit": "lint-staged",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "git add"
+    ]
+  },
   "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^7.0.4",
     "prettier": "^1.11.1"
   }
 }
