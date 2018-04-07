@@ -18,6 +18,7 @@ const Header = () => (
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
+          href="/"
           style={{
             color: '#323330',
             textDecoration: 'none',
