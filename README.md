@@ -1,3 +1,11 @@
+# Alan Marcell de Oliveira
+
+|             |                                         |
+| ----------- | --------------------------------------- |
+| Email       | alanmarcell@live.com                    |
+| Linkedin    | linkedin.com/in/alanmarcell             |
+| Pluralsight | app.pluralsight.com/profile/alanmarcell |
+
 ## Objetivo Profissional
 
 ### Programador FullStack
@@ -63,6 +71,18 @@ Microcamp Barueri
 ---
 
 ## Experiência profissional
+
+### **Budbuds</span>.us** - Fullstack Developer
+
+`01/11/2017 – 01/03/2018`
+
+Aplicativo multiplataforma desenvolvido em React Native
+
+* **Principais tecnologias:** React Native, Graphql, Docker, Redux, Redux-Saga, Jest, Enzyme
+* **Principais metodologias:** Clean Code, TDD, MVP Canvas
+
+[![alt text](assets/google-play-badge.png 'Android')](https://play.google.com/store/apps/details?id=us.budbuds)
+[![alt text](assets/apple-store-badge.svg 'iOS')](https://itunes.apple.com/us/app/budbuds-us/id1112825348)
 
 ### **Accenture** - Digital Business Integration Analyst
 
