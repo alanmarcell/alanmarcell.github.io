@@ -72,7 +72,7 @@ Microcamp Barueri
 
 ## Experiência profissional
 
-### **Budbuds</span>.us** - Fullstack Developer
+### **[Budbuds.us](http://budbuds.us/)** - Fullstack Developer
 
 `01/11/2017 – 01/03/2018`
 
