@@ -61,7 +61,7 @@ Microcamp Barueri
 * **Understanding Machine Learning with Python,** Jerry Kurata – Pluralsight
 * **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
 
-  [![alt text](assets/pluralsight.png 'Pluralsight')](https://app.pluralsight.com/profile/alanmarcell)
+[![alt text](assets/pluralsight.png 'Pluralsight')](https://app.pluralsight.com/profile/alanmarcell)
 
 ## Idiomas
 
