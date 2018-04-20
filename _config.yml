@@ -1,4 +1,10 @@
 title: Alan Marcell
-description: Resume
+email: alanmarcell@live.com
+description: A passionate programer who loves to learn
 theme: jekyll-theme-minimal
 logo: /assets/pic.jpeg
+
+github_username: alanmarcell
+
+markdown: kramdown
+permalink: pretty
