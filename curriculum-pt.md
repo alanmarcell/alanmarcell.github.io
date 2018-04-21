@@ -1,8 +1,8 @@
 # Alan Marcell de Oliveira
 
 **Email:** [alanmarcell@live.com](mailto:alanmarcell@live.com)  
+**Github:** [github.com/alanmarcell](github.com/alanmarcell)  
 **Linkedin:** [linkedin.com/in/alanmarcell](https://linkedin.com/in/alanmarcell)  
-**Pluralsight:** [app.pluralsight.com/profile/alanmarcell](app.pluralsight.com/profile/alanmarcell)
 
 ## Resumo
 
@@ -10,28 +10,29 @@
 
 Programador FullStack
 
-### Conhecimentos
+### Tecnologias preferidas
 
-**Tecnologias:**
-NodeJS, React, GraphQL, Docker, Angular, Typescript, Web API, HTML5, SASS, MongoDB, Ionic2, Mocha, Python, AWS Lambda.
+React, GraphQL, NodeJS, Docker, ES6, Typescript, MongoDB, Enzyme, Netlify.
 
-**Metodologias:**
-Functional Programming, Test Driven Design (TDD), Domain Driven Design (DDD), MVP Canvas, Design Thinking, Lean StartUp, Clean Code, Mobile First.
+### Metodologias preferidas
 
-**Ferramentas:**
-Visual Studio, VSCode, MongoChef, SourceTree, Github, Bitbucket.
+Functional Programming, Test Driven Design (TDD), Clean Code, Mobile First.
+
+### Ferramentas preferidas
+
+Visual Studio Code, Github, Linux, Terminator, Fish, Travis.
 
 ---
 
 ## Experiência profissional
 
-### **[Budbuds.us](http://budbuds.us/)** - Fullstack Developer
+### **Budbuds.us** - Fullstack Developer
 
 `01/11/2017 – 01/03/2018`
 
 Aplicativo multiplataforma desenvolvido em React Native
 
-* **Principais tecnologias:** React Native, Graphql, Docker, Redux, Redux-Saga, Jest, Enzyme
+* **Principais tecnologias:** React Native, Graphql, NodeJs, Docker, Hapi, Postgress, Redux, Redux-Saga, Jest, Enzyme
 * **Principais metodologias:** Clean Code, TDD, MVP Canvas
 
 ### **Accenture** - Digital Business Integration Analyst
@@ -136,3 +137,14 @@ Microcamp Barueri
 * **Inglês:** Avançado
 * **Espanhol:** Intermediário
 * **Francês:** Iniciante
+
+### Conhecimentos
+
+**Tecnologias:**
+NodeJS, React, GraphQL, Docker, Angular, Typescript, Web API, HTML5, SASS, MongoDB, Ionic2, Mocha, Python, AWS Lambda.
+
+**Metodologias:**
+Functional Programming, Test Driven Design (TDD), Domain Driven Design (DDD), MVP Canvas, Design Thinking, Lean StartUp, Clean Code, Mobile First.
+
+**Ferramentas:**
+Visual Studio, VSCode, MongoChef, SourceTree, Github, Bitbucket.

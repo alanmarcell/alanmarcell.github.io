@@ -1,25 +1,24 @@
-## Resumo
-
 **Email:** [alanmarcell@live.com](mailto:alanmarcell@live.com)  
 **Linkedin:** [linkedin.com/in/alanmarcell](https://linkedin.com/in/alanmarcell)  
 **Pluralsight:** [app.pluralsight.com/profile/alanmarcell](app.pluralsight.com/profile/alanmarcell)
+
+## Resumo
 
 ### Objetivo Profissional
 
 Programador FullStack
 
----
+### Tecnologias preferidas
 
-### Conhecimentos
+React, GraphQL, NodeJS, Docker, ES6, Typescript, MongoDB, Enzyme, Netlify.
 
-**Tecnologias:**
-NodeJS, React, GraphQL, Docker, Angular, Typescript, Web API, HTML5, SASS, MongoDB, Ionic2, Mocha, Python, AWS Lambda.
+### Metodologias preferidas
 
-**Metodologias:**
-Functional Programming, Test Driven Design (TDD), Domain Driven Design (DDD), MVP Canvas, Design Thinking, Lean StartUp, Clean Code, Mobile First.
+Functional Programming, Test Driven Design (TDD), Clean Code, Mobile First.
 
-**Ferramentas:**
-Visual Studio, VSCode, MongoChef, SourceTree, Github, Bitbucket.
+### Ferramentas preferidas
+
+Visual Studio Code, Github, Linux, Terminator, Fish, Travis.
 
 ---
 
@@ -142,3 +141,14 @@ Microcamp Barueri
 * **Inglês:** Avançado
 * **Espanhol:** Intermediário
 * **Francês:** Iniciante
+
+### Conhecimentos
+
+**Tecnologias:**
+NodeJS, React, GraphQL, Docker, Angular, Typescript, Web API, HTML5, SASS, MongoDB, Ionic2, Mocha, Python, AWS Lambda.
+
+**Metodologias:**
+Functional Programming, Test Driven Design (TDD), Domain Driven Design (DDD), MVP Canvas, Design Thinking, Lean StartUp, Clean Code, Mobile First.
+
+**Ferramentas:**
+Visual Studio, VSCode, MongoChef, SourceTree, Github, Bitbucket.
