@@ -1,14 +1,14 @@
-## Resumo
+# Alan Marcell de Oliveira
 
 **Email:** [alanmarcell@live.com](mailto:alanmarcell@live.com)  
 **Linkedin:** [linkedin.com/in/alanmarcell](https://linkedin.com/in/alanmarcell)  
 **Pluralsight:** [app.pluralsight.com/profile/alanmarcell](app.pluralsight.com/profile/alanmarcell)
 
+## Resumo
+
 ### Objetivo Profissional
 
 Programador FullStack
-
----
 
 ### Conhecimentos
 
@@ -33,9 +33,6 @@ Aplicativo multiplataforma desenvolvido em React Native
 
 * **Principais tecnologias:** React Native, Graphql, Docker, Redux, Redux-Saga, Jest, Enzyme
 * **Principais metodologias:** Clean Code, TDD, MVP Canvas
-
-[![alt text](assets/google-play-badge.png 'Android')](https://play.google.com/store/apps/details?id=us.budbuds)
-[![alt text](assets/apple-store-badge.png 'iOS')](https://itunes.apple.com/us/app/budbuds-us/id1112825348)
 
 ### **Accenture** - Digital Business Integration Analyst
 
@@ -125,8 +122,6 @@ Microcamp Barueri
 
 `01/2003 - 07/2004`
 
----
-
 ### Cursos
 
 * **Building Scalable APIs with GraphQL,** Samer Buna – Pluralsight
@@ -134,8 +129,7 @@ Microcamp Barueri
 * **Advanced Node.js,** Samer Buna – Pluralsight
 * **Understanding Machine Learning with Python,** Jerry Kurata – Pluralsight
 * **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
-
-[![alt text](assets/pluralsight.png 'Pluralsight')](https://app.pluralsight.com/profile/alanmarcell)
+* **Veja mais em** [pluralsight.com](app.pluralsight.com/profile/alanmarcell)
 
 ### Idiomas
 
