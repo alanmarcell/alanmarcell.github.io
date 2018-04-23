@@ -30,6 +30,12 @@ export const pageQuery = graphql`
           email
           defaultLink
         }
+        creator {
+          name
+          homeCity
+          email
+          defaultLink
+        }
         sourceCodeLink
         menu {
           label

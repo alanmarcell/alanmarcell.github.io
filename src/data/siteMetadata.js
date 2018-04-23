@@ -2,8 +2,14 @@ const resume = require('./resume');
 const languages = require('./languages');
 
 module.exports = {
-  siteUrl: 'https://angeloocana.com',
+  siteUrl: 'https://alanmarcell.github.io/',
   author: {
+    name: 'Alan Marcell',
+    homeCity: 'Barueri',
+    email: 'alanmarcell@live.com',
+    defaultLink: 'https://github.com/alanmarcell'
+  },
+  creator: {
     name: 'Ângelo Ocanã',
     homeCity: 'Ottawa',
     email: 'angeloocana@gmail.com',
@@ -33,20 +39,14 @@ module.exports = {
   contact: [
     {
       type: 'email',
-      value: 'angeloocana@gmail.com',
-      link: 'mailto:angeloocana@gmail.com'
+      value: 'alanmarcell@live.com',
+      link: 'mailto:alanmarcell@live.com'
     },
     {
       type: 'phone',
-      value: '(613) 720-9572',
-      country: 'ca',
-      link: 'tel:(613) 720-9572'
-    },
-    {
-      type: 'phone',
-      value: '+55 11 99572-9944',
+      value: '+55 11 98466-7478',
       country: 'br',
-      link: 'tel:+55 11 99572-9944'
+      link: 'tel:+55 11 98466-7478'
     }
   ]
 };

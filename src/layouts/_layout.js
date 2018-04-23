@@ -46,7 +46,7 @@ const Wrapper = (props) => {
   const homeLink = `/${langKey}/`;
   const langsMenu = getLangs(langs, langKey, getUrlForLang(homeLink, url));
 
-  const {menu, author, sourceCodeLink} = props.data.site.siteMetadata;
+  const {menu, author, sourceCodeLink, creator} = props.data.site.siteMetadata;
 
   return (
     <ThemeProvider theme={theme}>
@@ -69,6 +69,7 @@ const Wrapper = (props) => {
             <Footer
               currentLangKey={langKey}
               author={author}
+              creator={creator}
               sourceCodeLink={sourceCodeLink}
             />
           </BodyContainer>

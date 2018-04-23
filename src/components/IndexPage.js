@@ -16,7 +16,7 @@ const Index = (props) => {
   return (
     <div>
       <SocialLinks />
-      <Welcome currentLangKey={langKey} />
+      {/* <Welcome currentLangKey={langKey} /> */}
       <Technologies
         technologies={pinnedTechnologies}
       />
@@ -27,12 +27,12 @@ const Index = (props) => {
           </BtnLink>
         )}
       </FormattedMessage>
-      <Games games={games} />
+      {/* <Games games={games} />
       <Posts
         posts={posts}
         langKey={langKey}
         showBtnMorePosts
-      />
+      /> */}
     </div>
   );
 };

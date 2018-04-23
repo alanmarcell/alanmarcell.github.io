@@ -80,50 +80,50 @@ const getGitHubMsg = () => {
 };
 
 const getCreatedBy = (author) => {
-  const profilePicture = (<ProfilePicture email={author.email} alt={author.name} width={60} height={60} />);
+
   return {
     en: (
-      <FooterSection>
+      
         <Link href={author.defaultLink} target="_blank">
-          {profilePicture}
+          
           {'Built with '} <HeartIcon />
           {' by '} <span>{author.name}</span>
           {' who lives in '} <span>{author.homeCity}</span>
           <HomeCountryIcon />
         </Link>
-      </FooterSection>
+      
     ),
     pt: (
-      <FooterSection>
+      
         <Link href={author.defaultLink} target="_blank">
-          {profilePicture}
+          
           {'Criado com '} <HeartIcon />
           {' por '} <span>{author.name}</span>
           {' que mora em '} <span>{author.homeCity}</span>
           <HomeCountryIcon />
         </Link>
-      </FooterSection>
+      
     ),
     fr: (
-      <FooterSection>
+      
         <Link href={author.defaultLink} target="_blank">
-          {profilePicture}
+          
           {'Créé avec '} <HeartIcon />
           {' par '} <span>{author.name}</span>
           {' qui vit à '} <span>{author.homeCity}</span>
           <HomeCountryIcon />
         </Link>
-      </FooterSection>
+      
     )
   };
 };
 
-const Footer = ({ author, sourceCodeLink, currentLangKey }) => {
+const Footer = ({ creator, sourceCodeLink, currentLangKey }) => {
   return (
     <footer>
-      {getCreatedBy(author)[currentLangKey]}
       <FooterSection>
         <Link href={sourceCodeLink} target="_blank">
+        {getCreatedBy(creator)[currentLangKey]}
           {getGitHubMsg()[currentLangKey]}
         </Link>
       </FooterSection>

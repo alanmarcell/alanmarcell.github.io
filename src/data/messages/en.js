@@ -1,7 +1,7 @@
 module.exports = {
-  'title': 'Ângelo Ocanã Web Apps Development and Training',
-  'header.title': 'Ângelo Ocanã',
-  'header.subTitle': 'Web Apps Development and Training',
+  'title': 'Alan Marcell Web Apps Development',
+  'header.title': 'Alan Marcell',
+  'header.subTitle': 'Web Apps Development',
 
   'home': 'Home',
   'about': 'About me',
