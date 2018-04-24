@@ -9,37 +9,29 @@ const jobsAndClients = {
   'Freelancer': {
     slug: '/freelancer/',
     date: {
-      start: '2007-02-01',
+      start: '2016-06-01',
       end: null
     },
     img: '',
-    link: 'https://angeloocana.com',
+    link: 'https://alanmarcell.com',
     description: {
       'pt': 'Desenvolvi sistemas e sites para: Envio de SMS, Academias, E-commerce, Sistes Institucionais, entre outros.'
     },
     projects: [
       {
-        name: 'Tic Tac Toe AI',
-        slug: '/angeloocana/tic-tac-toe-ai/',
+        name: 'Minesweeper Terminal',
+        slug: '/alanmarcell/minesweeper-terminal/',
         img: 'tic-tac-toe-ai.jpg',
         isGame: true,
         years: range(2017, 2017),
         description: '',
-        link: 'https://tic-tac-toe-ai.surge.sh',
+        link: 'https://github.com/alanmarcell/minesweeper-terminal',
         technologies: [
-          t.react,
-          t.gatsby,
-          t.graphql,
-          t.styledComponents,
           t.nodejs,
-          t.html,
-          t.css,
           t.js,
           t.vscode,
-          t.jest,
           t.eslint,
-          t.babel,
-          t.surge
+          t.babel
         ],
         clients: [
           {
@@ -50,51 +42,36 @@ const jobsAndClients = {
       },
     ]
   },
-  'POL': {
-    slug: '/pol/',
+  'Budbuds.us': {
+    slug: '/budbuds/',
     date: {
-      start: '2011-04-18',
-      end: '2015-03-17'
+      start: '2017-04-18',
+      end: '2018-03-17'
     },
     img: 'pol.png',
-    link: 'http://pol.com.br',
+    link: 'http://budbuds.us/',
     needWhiteBg: true,
-    description: `POL (Prêmios Online), plataforma de e-commerce para resgate de produtos / serviços através da pontuação adquirida na apuração das metas e resultados. Integração com parceiros B2W, Magazine Luiza, Walmart, Casas Bahia, FastShop, entre outros.
-        
-        Criação de Engine de busca utilizando Lucene.
-        
-        Principais Tecnologias: MVC, API, Jquery, Ajax, .NET 4.0 / 4.5 utilizando linguagem C#, Entity Framework, Migrations, UnitTest, Lucene, StructureMap, WebForms
-        Principais Metodologias: Domain Driven Design, Test Driven Development, Scrum
-        Banco de Dados: SQL Server (Gerenciamento, Criação de Querys, Stored Procedures, Functions, Views e Jobs)`,
+    description: `Aplicativo multiplataforma desenvolvido em React Native`,
     projects: [
       {
-        name: 'POL',
-        slug: '/pol-premios-online/',
-        years: range(2011, 2015),
+        name: 'Budbuds App',
+        slug: '/app/',
+        years: range(2017, 2018),
         description: '',
         link: null,
         clients: [
           {
-            name: 'B2W',
+            name: '',
             link: ''
           },
         ],
         technologies: [
-          t.cSharp,
+          t.react,          
           t.html,
           t.css,
           t.js,
-          t.jquery,
-          t.netMvc,
           t.postgres,
-          t.webForms,
-          t.wcf,
-          t.sqlServer,
-          t.visualStudio,
-          t.lucene,
           t.rabbitmq,
-          t.structureMap,
-          t.entityFramework
         ]
       }
     ]

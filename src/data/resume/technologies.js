@@ -318,15 +318,15 @@ const technologies = {
   //   img: 'd3.png',
   //   link: 'https://d3js.org/'
   // },
-  // styledComponents: {
-  //   name: 'Styled Components',
-  //   years: range(2017, thisYear),
-  //   needWhiteBg: true,
-  //   tags: [tags.frontEnd],
-  //   level: levels.proficient,
-  //   img: 'styled-components.png',
-  //   link: 'https://www.styled-components.com/'
-  // },
+  styledComponents: {
+    name: 'Styled Components',
+    years: range(2017, thisYear),
+    needWhiteBg: true,
+    tags: [tags.frontEnd],
+    level: levels.proficient,
+    img: 'styled-components.png',
+    link: 'https://www.styled-components.com/'
+  },
   jest: {
     name: 'Jest',
     years: range(2017, thisYear),
