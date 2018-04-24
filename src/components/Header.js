@@ -49,8 +49,7 @@ const Wrapper = styled.header`
   `}  
 `;
 
-const Header = ({ menu, isHome, langs, homeLink, url }) => {
-  console.log('>>>>>>>>>', isHome)
+const Header = ({ menu, isHome, langs, homeLink, url }) => {  
   return (
     <Wrapper isHome={isHome}>
       <FormattedMessage id="title">
