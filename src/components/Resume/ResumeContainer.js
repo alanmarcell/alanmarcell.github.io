@@ -106,7 +106,9 @@ const ResumeContainer = (props) => {
       <BreadCrumb
         items={getBreadCrumb(langKey, props.breadCrumb)}
       />
-      <ResumeDownloadPDF />
+      <ResumeDownloadPDF 
+        langKey={langKey}
+      />
       {props.children}
       <footer>
         <Ul>

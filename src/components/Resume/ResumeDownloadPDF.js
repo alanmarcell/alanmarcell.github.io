@@ -17,12 +17,13 @@ const Wrapper = styled.div`
   }
 `;
 
-const ResumeDownloadPDF = () => {
+const ResumeDownloadPDF = ({langKey}) => {
+  const lKey = langKey ==='fr'? 'en': langKey;
   return (
     <Wrapper>
       <FormattedMessage id="resume.downloadPdf">
         {(txt) => (
-          <A href="https://github.com/angeloocana/angeloocana/raw/master/static/AngeloOcanaMartins_en.pdf">
+          <A href={`https://alanmarcell.github.io/assets/AlanMarcell_${lKey}.pdf`}>
             <PdfIcon />
             {txt}
           </A>
