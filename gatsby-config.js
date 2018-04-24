@@ -46,7 +46,7 @@ module.exports = {
       options: {
         name: 'Alan Marcell Software Development',
         short_name: 'Alan Marcell',
-        start_url: '/', 
+        start_url: '.', 
         icon: 'static/logo.svg',
         background_color: 'white',
         theme_color: 'white',

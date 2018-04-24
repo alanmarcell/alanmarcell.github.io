@@ -3,6 +3,7 @@
   "description": "Angelo Ocana Web Apps Development and Training",
   "version": "1.0.0",
   "author": "Angelo Ocana <angeloocana@gmail.com>",
+  "homepage": "https://alanmarcell.netlify.com/",
   "dependencies": {
     "anchor-js": "^4.1.0",
     "gatsby": "^1.9.36",
