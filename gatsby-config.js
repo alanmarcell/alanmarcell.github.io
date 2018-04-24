@@ -44,16 +44,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Ângelo Ocanã Software Development and Training',
-        short_name: 'Ângelo Ocanã',
-        icons: [
-          {
-            src: '/logo.svg',
-            sizes: 'any',
-            type: 'image/svg+xml',
-          },
-        ],
-        start_url: '/',
+        name: 'Alan Marcell Software Development',
+        short_name: 'Alan Marcell',
+        start_url: '/', 
+        icon: 'static/logo.svg',
         background_color: 'white',
         theme_color: 'white',
         display: 'minimal-ui',
