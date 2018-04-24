@@ -48,7 +48,7 @@ Aplicativo multiplataforma desenvolvido em React Native
 * **Principais tecnologias:** NodeJS, MongoDB, Docker, RabbitMQ, Pm2, Mocha, ES6
 * **Principais metodologias:** Clean Code, TDD, MVP Canvas
 
-##### Desenvolvimento de App em Ionic 2 para Gestão de Relatórios de PDV.
+##### Bematech GDI - App em Ionic 2 para Gestão de Relatórios de PDV
 
 * **Principais tecnologias:** Ionic 2, Angular2, Typescript
 * **Principais metodologias:** Clean Code

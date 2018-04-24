@@ -33,8 +33,8 @@ Aplicativo multiplataforma desenvolvido em React Native
 * **Principais tecnologias:** React Native, Graphql, Docker, Redux, Redux-Saga, Jest, Enzyme
 * **Principais metodologias:** Clean Code, TDD, MVP Canvas
 
-[![alt text](assets/google-play-badge.png 'Android')](https://play.google.com/store/apps/details?id=us.budbuds)
-[![alt text](assets/apple-store-badge.png 'iOS')](https://itunes.apple.com/us/app/budbuds-us/id1112825348)
+[![alt text](assets/google-play-badge.png 'Budbuds.us - Google Play')](https://play.google.com/store/apps/details?id=us.budbuds)
+[![alt text](assets/apple-store-badge.png 'Budbuds.us - Apple Store')](https://itunes.apple.com/us/app/budbuds-us/id1112825348)
 
 ### **Accenture** - Digital Business Integration Analyst
 
@@ -49,10 +49,13 @@ Aplicativo multiplataforma desenvolvido em React Native
 * **Principais tecnologias:** NodeJS, MongoDB, Docker, RabbitMQ, Pm2, Mocha, ES6
 * **Principais metodologias:** Clean Code, TDD, MVP Canvas
 
-##### Desenvolvimento de App em Ionic 2 para Gestão de Relatórios de PDV.
+##### Bematech GDI - App em Ionic 2 para Gestão de Relatórios de PDV
 
 * **Principais tecnologias:** Ionic 2, Angular2, Typescript
 * **Principais metodologias:** Clean Code
+
+[![alt text](assets/google-play-badge.png 'Bematech GDI - Google Play')](https://play.google.com/store/apps/details?id=com.bematech.gdi)
+[![alt text](assets/apple-store-badge.png 'Bematech GDI - Apple Store')](https://itunes.apple.com/br/app/bematech-gdi/id1062372210)
 
 ##### Projeto de análise de performance de e-commerce em ASP.NET
 
