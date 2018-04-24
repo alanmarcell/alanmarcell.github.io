@@ -1,0 +1,2 @@
+webpackJsonp([0x89e5cfeb3261],{1059:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Git comandos Avançados",date:"2017-06-23"},fields:{slug:"/pt/blog/git/git-setup/",langKey:"pt"},excerpt:"Habilite auto complete, Commit com titulo e descrição, navege pelo histórico, atualize fork e muito mais! Habilitar auto complete ao digitar…"}}]}},pathContext:{tag:"controle de versões",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-tags-controle-de-versoes-a4e26effbc7911d2a098.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x8f1e6bc02fc3],{1077:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Setup dev env Arch linux",date:"2017-07-30"},fields:{slug:"/pt/blog/linux/arch/setup-nodejs-env/",langKey:"pt"},excerpt:"Install git Install Nodejs Install NPM Fix global permissions error https://docs.npmjs.com/getting-started/fixing-npm-permissions Make a…"}}]}},pathContext:{tag:"NodeJs",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-tags-node-js-634cab32544f1ad6df82.js.map

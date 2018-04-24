@@ -1,0 +1,2 @@
+webpackJsonp([0x816af3da24c4],{1048:function(a,t){a.exports={data:{site:{siteMetadata:{contact:[{type:"email",value:"alanmarcell@live.com",country:null,link:"mailto:alanmarcell@live.com"},{type:"phone",value:"+55 11 98466-7478",country:"br",link:"tel:+55 11 98466-7478"}]}}},pathContext:{slug:"/pt/contact/",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-contact-4e65c8fcd8c3edcae891.js.map

@@ -1,0 +1,964 @@
+{
+  "assetsByChunkName": {
+    "path---en-blog-linux-arch-install-arch-linux-wifi-xfce-4": [
+      "path---en-blog-linux-arch-install-arch-linux-wifi-xfce-4-568936f9650b2ee90285.js",
+      "path---en-blog-linux-arch-install-arch-linux-wifi-xfce-4-568936f9650b2ee90285.js.map"
+    ],
+    "path---fr-tags-zsh": [
+      "path---fr-tags-zsh-947f5551847b723227ea.js",
+      "path---fr-tags-zsh-947f5551847b723227ea.js.map"
+    ],
+    "component---src-pages-resume-languages-index-pt-js": [
+      "component---src-pages-resume-languages-index-pt-js-7acf4340f40d088565d6.js",
+      "component---src-pages-resume-languages-index-pt-js-7acf4340f40d088565d6.js.map"
+    ],
+    "path---fr-resume-jobs-and-clients-budbuds": [
+      "path---fr-resume-jobs-and-clients-budbuds-3a90688832ad8f7461ae.js",
+      "path---fr-resume-jobs-and-clients-budbuds-3a90688832ad8f7461ae.js.map"
+    ],
+    "path---pt": [
+      "path---pt-9993cee174271d6d0424.js",
+      "path---pt-9993cee174271d6d0424.js.map"
+    ],
+    "component---src-pages-blog-en-js": [
+      "component---src-pages-blog-en-js-4456df779ca4af9ebf04.js",
+      "component---src-pages-blog-en-js-4456df779ca4af9ebf04.js.map"
+    ],
+    "path---en-blog-linux-arch-backup-android-files": [
+      "path---en-blog-linux-arch-backup-android-files-24691d5db4ae78cd14a8.js",
+      "path---en-blog-linux-arch-backup-android-files-24691d5db4ae78cd14a8.js.map"
+    ],
+    "path---pt-tags-ssl": [
+      "path---pt-tags-ssl-6f2bd6a7ce23f12d98c3.js",
+      "path---pt-tags-ssl-6f2bd6a7ce23f12d98c3.js.map"
+    ],
+    "path---en-tags-english": [
+      "path---en-tags-english-80498ac4579c26356e6c.js",
+      "path---en-tags-english-80498ac4579c26356e6c.js.map"
+    ],
+    "path---en-tags-language": [
+      "path---en-tags-language-4f001d513b642568cfe3.js",
+      "path---en-tags-language-4f001d513b642568cfe3.js.map"
+    ],
+    "component---src-pages-contact-index-pt-js": [
+      "component---src-pages-contact-index-pt-js-d9bb241f3d26be06bda1.js",
+      "component---src-pages-contact-index-pt-js-d9bb241f3d26be06bda1.js.map"
+    ],
+    "component---src-templates-resume-job-js": [
+      "component---src-templates-resume-job-js-d1e3ea34f069facfa742.js",
+      "component---src-templates-resume-job-js-d1e3ea34f069facfa742.js.map"
+    ],
+    "path---pt-blog-git-git-setup": [
+      "path---pt-blog-git-git-setup-6c575faaeb8440198b1a.js",
+      "path---pt-blog-git-git-setup-6c575faaeb8440198b1a.js.map"
+    ],
+    "path---tutoriais-dica-rapida-2-por-um-mundo-melhor": [
+      "path---tutoriais-dica-rapida-2-por-um-mundo-melhor-a8ea9c1cd49c6e0c6ba0.js",
+      "path---tutoriais-dica-rapida-2-por-um-mundo-melhor-a8ea9c1cd49c6e0c6ba0.js.map"
+    ],
+    "component---src-layouts-fr-js": [
+      "component---src-layouts-fr-js-4fbf081e4faa28e6c810.js",
+      "component---src-layouts-fr-js-4fbf081e4faa28e6c810.js.map"
+    ],
+    "component---src-pages-resume-jobs-and-clients-index-fr-js": [
+      "component---src-pages-resume-jobs-and-clients-index-fr-js-a23fe2b75cdcff0e1e4a.js",
+      "component---src-pages-resume-jobs-and-clients-index-fr-js-a23fe2b75cdcff0e1e4a.js.map"
+    ],
+    "path---fr-blog": [
+      "path---fr-blog-b4a34914630130f4c5f5.js",
+      "path---fr-blog-b4a34914630130f4c5f5.js.map"
+    ],
+    "path---pt-tags-libre-office": [
+      "path---pt-tags-libre-office-4e3615a34346cfe2ea08.js",
+      "path---pt-tags-libre-office-4e3615a34346cfe2ea08.js.map"
+    ],
+    "component---src-layouts-pt-js": [
+      "component---src-layouts-pt-js-e4b359ca42a760dc5018.js",
+      "component---src-layouts-pt-js-e4b359ca42a760dc5018.js.map"
+    ],
+    "path---pt-blog-static-site-setup-ssl": [
+      "path---pt-blog-static-site-setup-ssl-d0797add69bda7e2591a.js",
+      "path---pt-blog-static-site-setup-ssl-d0797add69bda7e2591a.js.map"
+    ],
+    "path---pt-blog-linux-arch-backup-android-files": [
+      "path---pt-blog-linux-arch-backup-android-files-0f838197610e28e4e892.js",
+      "path---pt-blog-linux-arch-backup-android-files-0f838197610e28e4e892.js.map"
+    ],
+    "path---fr-blog-git-10-tips-to-start-using-github-and-cmd": [
+      "path---fr-blog-git-10-tips-to-start-using-github-and-cmd-399c0e7334a47e32cc1c.js",
+      "path---fr-blog-git-10-tips-to-start-using-github-and-cmd-399c0e7334a47e32cc1c.js.map"
+    ],
+    "path---pt-blog-terminal-install-zsh": [
+      "path---pt-blog-terminal-install-zsh-dc99ae91c0318129f995.js",
+      "path---pt-blog-terminal-install-zsh-dc99ae91c0318129f995.js.map"
+    ],
+    "path---fr-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal": [
+      "path---fr-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal-2d1c1e3b7a7d16436ab5.js",
+      "path---fr-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal-2d1c1e3b7a7d16436ab5.js.map"
+    ],
+    "path---fr-tags-es-2015": [
+      "path---fr-tags-es-2015-1659b99a4764af1ac65a.js",
+      "path---fr-tags-es-2015-1659b99a4764af1ac65a.js.map"
+    ],
+    "component---src-pages-tags-index-fr-js": [
+      "component---src-pages-tags-index-fr-js-3b48cd40d3d2e55ec9c2.js",
+      "component---src-pages-tags-index-fr-js-3b48cd40d3d2e55ec9c2.js.map"
+    ],
+    "path---en-resume-jobs-and-clients-freelancer": [
+      "path---en-resume-jobs-and-clients-freelancer-39937b18208ca2258b3c.js",
+      "path---en-resume-jobs-and-clients-freelancer-39937b18208ca2258b3c.js.map"
+    ],
+    "path---pt-blog-linux-arch-install-libre-office": [
+      "path---pt-blog-linux-arch-install-libre-office-269d7806650325686e9b.js",
+      "path---pt-blog-linux-arch-install-libre-office-269d7806650325686e9b.js.map"
+    ],
+    "component---src-pages-contact-index-en-js": [
+      "component---src-pages-contact-index-en-js-d9bb241f3d26be06bda1.js",
+      "component---src-pages-contact-index-en-js-d9bb241f3d26be06bda1.js.map"
+    ],
+    "path---pt-tags-versionamento-de-arquivos": [
+      "path---pt-tags-versionamento-de-arquivos-919669c338d1fdb5be04.js",
+      "path---pt-tags-versionamento-de-arquivos-919669c338d1fdb5be04.js.map"
+    ],
+    "path---fr-resume-jobs-and-clients": [
+      "path---fr-resume-jobs-and-clients-4d3f150d3cce3c7611af.js",
+      "path---fr-resume-jobs-and-clients-4d3f150d3cce3c7611af.js.map"
+    ],
+    "path---fr-tags-office": [
+      "path---fr-tags-office-852bb3df9a3101bd1f4a.js",
+      "path---fr-tags-office-852bb3df9a3101bd1f4a.js.map"
+    ],
+    "component---src-layouts-en-js": [
+      "component---src-layouts-en-js-aaf2c408e51aacadf001.js",
+      "component---src-layouts-en-js-aaf2c408e51aacadf001.js.map"
+    ],
+    "path---fr-tags-npm": [
+      "path---fr-tags-npm-ba61283b9c2bdd1f1643.js",
+      "path---fr-tags-npm-ba61283b9c2bdd1f1643.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-9d60cfd91d513fefcfec.js",
+      "component---src-pages-index-js-9d60cfd91d513fefcfec.js.map"
+    ],
+    "path---fr-blog-languages-english-learn-english-links": [
+      "path---fr-blog-languages-english-learn-english-links-ef1a204cc34f21ebfc74.js",
+      "path---fr-blog-languages-english-learn-english-links-ef1a204cc34f21ebfc74.js.map"
+    ],
+    "component---src-pages-index-pt-js": [
+      "component---src-pages-index-pt-js-a380fb554fec3c81dd0d.js",
+      "component---src-pages-index-pt-js-a380fb554fec3c81dd0d.js.map"
+    ],
+    "path---fr-blog-js-spred-operator": [
+      "path---fr-blog-js-spred-operator-2145cdd9c584f34c800a.js",
+      "path---fr-blog-js-spred-operator-2145cdd9c584f34c800a.js.map"
+    ],
+    "path---en-tags": [
+      "path---en-tags-3fd4fc1ce7ac74b17477.js",
+      "path---en-tags-3fd4fc1ce7ac74b17477.js.map"
+    ],
+    "path---en-contact": [
+      "path---en-contact-00ee485988f0ceaf7002.js",
+      "path---en-contact-00ee485988f0ceaf7002.js.map"
+    ],
+    "path---pt-tags-text-editor": [
+      "path---pt-tags-text-editor-0685739605ec87e3da82.js",
+      "path---pt-tags-text-editor-0685739605ec87e3da82.js.map"
+    ],
+    "path---en-blog-linux-arch-install-fonts": [
+      "path---en-blog-linux-arch-install-fonts-028c7a8a7e3ed130ab40.js",
+      "path---en-blog-linux-arch-install-fonts-028c7a8a7e3ed130ab40.js.map"
+    ],
+    "path---en-tags-text-editor": [
+      "path---en-tags-text-editor-e5413ea9930db4bf9992.js",
+      "path---en-tags-text-editor-e5413ea9930db4bf9992.js.map"
+    ],
+    "component---src-pages-resume-index-pt-js": [
+      "component---src-pages-resume-index-pt-js-8cb7a23b09d0fa0c1a9c.js",
+      "component---src-pages-resume-index-pt-js-8cb7a23b09d0fa0c1a9c.js.map"
+    ],
+    "path---fr-tags-text-editor": [
+      "path---fr-tags-text-editor-cfe40610e291871232bb.js",
+      "path---fr-tags-text-editor-cfe40610e291871232bb.js.map"
+    ],
+    "path---en-tags-es-6": [
+      "path---en-tags-es-6-80990117d0bbb4e72142.js",
+      "path---en-tags-es-6-80990117d0bbb4e72142.js.map"
+    ],
+    "path---en-blog": [
+      "path---en-blog-29cc569fd708d51d2dca.js",
+      "path---en-blog-29cc569fd708d51d2dca.js.map"
+    ],
+    "path---fr-blog-static-site-setup-ssl": [
+      "path---fr-blog-static-site-setup-ssl-68ebb71a227b3ffa8eab.js",
+      "path---fr-blog-static-site-setup-ssl-68ebb71a227b3ffa8eab.js.map"
+    ],
+    "path---fr-resume-jobs-and-clients-budbuds-app": [
+      "path---fr-resume-jobs-and-clients-budbuds-app-ada235eeecee8a304855.js",
+      "path---fr-resume-jobs-and-clients-budbuds-app-ada235eeecee8a304855.js.map"
+    ],
+    "path---fr-blog-linux-arch-setup-nodejs-env": [
+      "path---fr-blog-linux-arch-setup-nodejs-env-fb02615a0892845fa094.js",
+      "path---fr-blog-linux-arch-setup-nodejs-env-fb02615a0892845fa094.js.map"
+    ],
+    "path---pt-tags-office": [
+      "path---pt-tags-office-e8d43a57e81a9ca51928.js",
+      "path---pt-tags-office-e8d43a57e81a9ca51928.js.map"
+    ],
+    "path---fr-tags-extraire-des-fichiers": [
+      "path---fr-tags-extraire-des-fichiers-07c81da811afbba7e139.js",
+      "path---fr-tags-extraire-des-fichiers-07c81da811afbba7e139.js.map"
+    ],
+    "component---src-pages-index-fr-js": [
+      "component---src-pages-index-fr-js-a380fb554fec3c81dd0d.js",
+      "component---src-pages-index-fr-js-a380fb554fec3c81dd0d.js.map"
+    ],
+    "path---pt-resume-education": [
+      "path---pt-resume-education-c680ce4bc8592f5bcb00.js",
+      "path---pt-resume-education-c680ce4bc8592f5bcb00.js.map"
+    ],
+    "path---fr-tags-ssl": [
+      "path---fr-tags-ssl-cd36370ef74f4c7c8109.js",
+      "path---fr-tags-ssl-cd36370ef74f4c7c8109.js.map"
+    ],
+    "path---pt-tags-idioma": [
+      "path---pt-tags-idioma-9aee6fe027629c924046.js",
+      "path---pt-tags-idioma-9aee6fe027629c924046.js.map"
+    ],
+    "path---": [
+      "path----0b2c08c4fd5a7165fb85.js",
+      "path----0b2c08c4fd5a7165fb85.js.map"
+    ],
+    "path---en-tags-command-line": [
+      "path---en-tags-command-line-8aad2a76215fcadec8b6.js",
+      "path---en-tags-command-line-8aad2a76215fcadec8b6.js.map"
+    ],
+    "path---fr-blog-linux-arch-install-arch-linux-wifi-xfce-4": [
+      "path---fr-blog-linux-arch-install-arch-linux-wifi-xfce-4-3753d7007d4762d66cb1.js",
+      "path---fr-blog-linux-arch-install-arch-linux-wifi-xfce-4-3753d7007d4762d66cb1.js.map"
+    ],
+    "path---en-about": [
+      "path---en-about-c0f0e03bfb127788677b.js",
+      "path---en-about-c0f0e03bfb127788677b.js.map"
+    ],
+    "path---en-tags-ssl": [
+      "path---en-tags-ssl-9f6c2abf9c4680ccebb8.js",
+      "path---en-tags-ssl-9f6c2abf9c4680ccebb8.js.map"
+    ],
+    "path---en-tags-java-script": [
+      "path---en-tags-java-script-0c26282aafe18d77835a.js",
+      "path---en-tags-java-script-0c26282aafe18d77835a.js.map"
+    ],
+    "component---src-pages-about-index-fr-js": [
+      "component---src-pages-about-index-fr-js-597375bca691c553b3c2.js",
+      "component---src-pages-about-index-fr-js-597375bca691c553b3c2.js.map"
+    ],
+    "path---en-resume-jobs-and-clients": [
+      "path---en-resume-jobs-and-clients-a3d5099a3cd202810ed2.js",
+      "path---en-resume-jobs-and-clients-a3d5099a3cd202810ed2.js.map"
+    ],
+    "path---pt-blog-linux-arch-setup-nodejs-env": [
+      "path---pt-blog-linux-arch-setup-nodejs-env-0e9f2e3da2b79daa2311.js",
+      "path---pt-blog-linux-arch-setup-nodejs-env-0e9f2e3da2b79daa2311.js.map"
+    ],
+    "path---en-tags-c": [
+      "path---en-tags-c-55e7aa19d2f812c34148.js",
+      "path---en-tags-c-55e7aa19d2f812c34148.js.map"
+    ],
+    "path---en-tags-terminal": [
+      "path---en-tags-terminal-3b382b0060abec698b0a.js",
+      "path---en-tags-terminal-3b382b0060abec698b0a.js.map"
+    ],
+    "path---en-tags-functional-programming": [
+      "path---en-tags-functional-programming-51bf90fc039f0a4b2e19.js",
+      "path---en-tags-functional-programming-51bf90fc039f0a4b2e19.js.map"
+    ],
+    "path---en-tags-linux": [
+      "path---en-tags-linux-acd956f44892a9fa50eb.js",
+      "path---en-tags-linux-acd956f44892a9fa50eb.js.map"
+    ],
+    "component---src-templates-tag-page-js": [
+      "component---src-templates-tag-page-js-269cd5ca06d484376cf4.js",
+      "component---src-templates-tag-page-js-269cd5ca06d484376cf4.js.map"
+    ],
+    "path---pt-blog-linux-arch-extract-files": [
+      "path---pt-blog-linux-arch-extract-files-453ac421e9ac4f2c2d72.js",
+      "path---pt-blog-linux-arch-extract-files-453ac421e9ac4f2c2d72.js.map"
+    ],
+    "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-5-repositories": [
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-5-repositories-b080e28e1e4d3568c73f.js",
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-5-repositories-b080e28e1e4d3568c73f.js.map"
+    ],
+    "path---pt-tags-gatsby": [
+      "path---pt-tags-gatsby-7a9f819ade691e8e60f5.js",
+      "path---pt-tags-gatsby-7a9f819ade691e8e60f5.js.map"
+    ],
+    "path---pt-blog-git-10-tips-to-start-using-github-and-cmd": [
+      "path---pt-blog-git-10-tips-to-start-using-github-and-cmd-39f893183b5d358d3c17.js",
+      "path---pt-blog-git-10-tips-to-start-using-github-and-cmd-39f893183b5d358d3c17.js.map"
+    ],
+    "component---src-pages-resume-education-index-en-js": [
+      "component---src-pages-resume-education-index-en-js-7e69788dd9427d97fef8.js",
+      "component---src-pages-resume-education-index-en-js-7e69788dd9427d97fef8.js.map"
+    ],
+    "path---en-tags-es-2015": [
+      "path---en-tags-es-2015-df72413c14b0ef3454aa.js",
+      "path---en-tags-es-2015-df72413c14b0ef3454aa.js.map"
+    ],
+    "path---en-tags-git": [
+      "path---en-tags-git-e3541b9bcb780f2505cf.js",
+      "path---en-tags-git-e3541b9bcb780f2505cf.js.map"
+    ],
+    "path---pt-blog-languages-french-french-movies": [
+      "path---pt-blog-languages-french-french-movies-a50e46cac4500ce19604.js",
+      "path---pt-blog-languages-french-french-movies-a50e46cac4500ce19604.js.map"
+    ],
+    "path---pt-tags-extrair-arquivos": [
+      "path---pt-tags-extrair-arquivos-82e440b021de0f345139.js",
+      "path---pt-tags-extrair-arquivos-82e440b021de0f345139.js.map"
+    ],
+    "path---fr-tags-excel": [
+      "path---fr-tags-excel-ec5d08e16f5ff42ac368.js",
+      "path---fr-tags-excel-ec5d08e16f5ff42ac368.js.map"
+    ],
+    "path---en-tags-office": [
+      "path---en-tags-office-29fe72e3cbe6b5649326.js",
+      "path---en-tags-office-29fe72e3cbe6b5649326.js.map"
+    ],
+    "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-4-enity-frame-work-migrations": [
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-4-enity-frame-work-migrations-967f5c6b10c756013448.js",
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-4-enity-frame-work-migrations-967f5c6b10c756013448.js.map"
+    ],
+    "path---en-tags-gatsby": [
+      "path---en-tags-gatsby-58243ff2626e2f9be8b9.js",
+      "path---en-tags-gatsby-58243ff2626e2f9be8b9.js.map"
+    ],
+    "path---fr-about": [
+      "path---fr-about-a3fbdcc5d9bc255b5c7e.js",
+      "path---fr-about-a3fbdcc5d9bc255b5c7e.js.map"
+    ],
+    "path---fr-tags": [
+      "path---fr-tags-abc4c2f0c7921e0d3cad.js",
+      "path---fr-tags-abc4c2f0c7921e0d3cad.js.map"
+    ],
+    "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-2": [
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-2-b84b818b2d09aea583fd.js",
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-2-b84b818b2d09aea583fd.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---en-resume": [
+      "path---en-resume-46ef062d3aa01e7a41c2.js",
+      "path---en-resume-46ef062d3aa01e7a41c2.js.map"
+    ],
+    "path---en-blog-linux-arch-install-libre-office": [
+      "path---en-blog-linux-arch-install-libre-office-ced1b8168a2656ac0d33.js",
+      "path---en-blog-linux-arch-install-libre-office-ced1b8168a2656ac0d33.js.map"
+    ],
+    "path---pt-blog-languages-french-learn-french-links": [
+      "path---pt-blog-languages-french-learn-french-links-3055cf4a88d05f8f2562.js",
+      "path---pt-blog-languages-french-learn-french-links-3055cf4a88d05f8f2562.js.map"
+    ],
+    "path---fr-tags-vs-code": [
+      "path---fr-tags-vs-code-360e80478c3d3fcc86bf.js",
+      "path---fr-tags-vs-code-360e80478c3d3fcc86bf.js.map"
+    ],
+    "path---pt-blog-linux-arch-install-arch-linux-wifi-xfce-4": [
+      "path---pt-blog-linux-arch-install-arch-linux-wifi-xfce-4-5c91be7da45bb1a734bc.js",
+      "path---pt-blog-linux-arch-install-arch-linux-wifi-xfce-4-5c91be7da45bb1a734bc.js.map"
+    ],
+    "path---pt-tags": [
+      "path---pt-tags-af1e26e8d2cb487b6d02.js",
+      "path---pt-tags-af1e26e8d2cb487b6d02.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-15b108038cb991dd8589.js",
+      "component---src-templates-blog-post-js-15b108038cb991dd8589.js.map"
+    ],
+    "path---pt-blog-linux-arch-install-yaourt": [
+      "path---pt-blog-linux-arch-install-yaourt-087b3e0c364dca99cff1.js",
+      "path---pt-blog-linux-arch-install-yaourt-087b3e0c364dca99cff1.js.map"
+    ],
+    "path---en-resume-jobs-and-clients-budbuds-app": [
+      "path---en-resume-jobs-and-clients-budbuds-app-ada235eeecee8a304855.js",
+      "path---en-resume-jobs-and-clients-budbuds-app-ada235eeecee8a304855.js.map"
+    ],
+    "path---pt-tags-ingles": [
+      "path---pt-tags-ingles-13f9591655fa3d7225ef.js",
+      "path---pt-tags-ingles-13f9591655fa3d7225ef.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-e73af38294f50643c440.js",
+      "component---src-layouts-index-js-e73af38294f50643c440.js.map"
+    ],
+    "path---en-resume-languages": [
+      "path---en-resume-languages-7af367fcfd1169a091ba.js",
+      "path---en-resume-languages-7af367fcfd1169a091ba.js.map"
+    ],
+    "component---src-pages-resume-index-fr-js": [
+      "component---src-pages-resume-index-fr-js-8cb7a23b09d0fa0c1a9c.js",
+      "component---src-pages-resume-index-fr-js-8cb7a23b09d0fa0c1a9c.js.map"
+    ],
+    "path---en-blog-terminal-install-zsh": [
+      "path---en-blog-terminal-install-zsh-972935c9dca836554872.js",
+      "path---en-blog-terminal-install-zsh-972935c9dca836554872.js.map"
+    ],
+    "path---pt-tags-word": [
+      "path---pt-tags-word-c649847b2834b80e5e4c.js",
+      "path---pt-tags-word-c649847b2834b80e5e4c.js.map"
+    ],
+    "path---fr-blog-git-git-setup": [
+      "path---fr-blog-git-git-setup-6892e7e29f4f5a950cec.js",
+      "path---fr-blog-git-git-setup-6892e7e29f4f5a950cec.js.map"
+    ],
+    "path---pt-tags-vs-code": [
+      "path---pt-tags-vs-code-552fd53f207643e1b596.js",
+      "path---pt-tags-vs-code-552fd53f207643e1b596.js.map"
+    ],
+    "path---en-tags-word": [
+      "path---en-tags-word-a7a8db87241edbfdb9c8.js",
+      "path---en-tags-word-a7a8db87241edbfdb9c8.js.map"
+    ],
+    "path---pt-tags-programacao-funcional": [
+      "path---pt-tags-programacao-funcional-d45cab4626ac5cd92a74.js",
+      "path---pt-tags-programacao-funcional-d45cab4626ac5cd92a74.js.map"
+    ],
+    "path---fr-tags-arch": [
+      "path---fr-tags-arch-c602dcae149bebb0a6ee.js",
+      "path---fr-tags-arch-c602dcae149bebb0a6ee.js.map"
+    ],
+    "path---en-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal": [
+      "path---en-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal-2d1c1e3b7a7d16436ab5.js",
+      "path---en-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal-2d1c1e3b7a7d16436ab5.js.map"
+    ],
+    "path---pt-blog-js-spred-operator": [
+      "path---pt-blog-js-spred-operator-a9d49b5c714c46e05ada.js",
+      "path---pt-blog-js-spred-operator-a9d49b5c714c46e05ada.js.map"
+    ],
+    "path---fr-blog-languages-french-french-movies": [
+      "path---fr-blog-languages-french-french-movies-25309842b231fb95a0d1.js",
+      "path---fr-blog-languages-french-french-movies-25309842b231fb95a0d1.js.map"
+    ],
+    "path---pt-tags-frances": [
+      "path---pt-tags-frances-ab9c3e5eb621dc679364.js",
+      "path---pt-tags-frances-ab9c3e5eb621dc679364.js.map"
+    ],
+    "path---en-tags-libre-office": [
+      "path---en-tags-libre-office-82bef85d919974fdc002.js",
+      "path---en-tags-libre-office-82bef85d919974fdc002.js.map"
+    ],
+    "path---fr-blog-linux-arch-fix-enospc-error": [
+      "path---fr-blog-linux-arch-fix-enospc-error-7c03869a4c12feefdd0a.js",
+      "path---fr-blog-linux-arch-fix-enospc-error-7c03869a4c12feefdd0a.js.map"
+    ],
+    "path---pt-resume-languages": [
+      "path---pt-resume-languages-c748ac7c08f0af23d4d7.js",
+      "path---pt-resume-languages-c748ac7c08f0af23d4d7.js.map"
+    ],
+    "component---src-pages-about-index-en-js": [
+      "component---src-pages-about-index-en-js-2a58ec2ffe2b77037cf3.js",
+      "component---src-pages-about-index-en-js-2a58ec2ffe2b77037cf3.js.map"
+    ],
+    "path---fr": [
+      "path---fr-d9b03237b9b22cf03397.js",
+      "path---fr-d9b03237b9b22cf03397.js.map"
+    ],
+    "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-1": [
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-1-2af0dfb92985db01b418.js",
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-1-2af0dfb92985db01b418.js.map"
+    ],
+    "path---en-tags-ssl-com": [
+      "path---en-tags-ssl-com-363767204b4434b28815.js",
+      "path---en-tags-ssl-com-363767204b4434b28815.js.map"
+    ],
+    "component---src-pages-blog-pt-js": [
+      "component---src-pages-blog-pt-js-4456df779ca4af9ebf04.js",
+      "component---src-pages-blog-pt-js-4456df779ca4af9ebf04.js.map"
+    ],
+    "path---pt-blog": [
+      "path---pt-blog-89f8f33d7bb9a5d1aadc.js",
+      "path---pt-blog-89f8f33d7bb9a5d1aadc.js.map"
+    ],
+    "path---en-blog-git-git-setup": [
+      "path---en-blog-git-git-setup-1cdc9becd110dc0fee34.js",
+      "path---en-blog-git-git-setup-1cdc9becd110dc0fee34.js.map"
+    ],
+    "path---fr-tags-java-script": [
+      "path---fr-tags-java-script-7e5bd24371d54d3df743.js",
+      "path---fr-tags-java-script-7e5bd24371d54d3df743.js.map"
+    ],
+    "path---en-tags-vs-code": [
+      "path---en-tags-vs-code-a551eeec3f1034c045ed.js",
+      "path---en-tags-vs-code-a551eeec3f1034c045ed.js.map"
+    ],
+    "path---en-tags-npm": [
+      "path---en-tags-npm-372dee12631d847abc9e.js",
+      "path---en-tags-npm-372dee12631d847abc9e.js.map"
+    ],
+    "path---fr-tags-terminal": [
+      "path---fr-tags-terminal-5b538231afb7cd5e2a28.js",
+      "path---fr-tags-terminal-5b538231afb7cd5e2a28.js.map"
+    ],
+    "path---pt-tags-surge-sh": [
+      "path---pt-tags-surge-sh-a7b30f27a53557a566f6.js",
+      "path---pt-tags-surge-sh-a7b30f27a53557a566f6.js.map"
+    ],
+    "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-6-app": [
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-6-app-cca4e558f12805785f16.js",
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-6-app-cca4e558f12805785f16.js.map"
+    ],
+    "path---fr-blog-linux-arch-install-libre-office": [
+      "path---fr-blog-linux-arch-install-libre-office-d88df39df44ce51c458c.js",
+      "path---fr-blog-linux-arch-install-libre-office-d88df39df44ce51c458c.js.map"
+    ],
+    "path---fr-resume": [
+      "path---fr-resume-022e02930f1e404d657d.js",
+      "path---fr-resume-022e02930f1e404d657d.js.map"
+    ],
+    "component---src-pages-resume-languages-index-fr-js": [
+      "component---src-pages-resume-languages-index-fr-js-7acf4340f40d088565d6.js",
+      "component---src-pages-resume-languages-index-fr-js-7acf4340f40d088565d6.js.map"
+    ],
+    "path---pt-tags-terminal": [
+      "path---pt-tags-terminal-615b3b24c1f9154aa41c.js",
+      "path---pt-tags-terminal-615b3b24c1f9154aa41c.js.map"
+    ],
+    "path---pt-contact": [
+      "path---pt-contact-4e65c8fcd8c3edcae891.js",
+      "path---pt-contact-4e65c8fcd8c3edcae891.js.map"
+    ],
+    "path---index": [
+      "path---index-fd014d6bcd63b4a504c3.js",
+      "path---index-fd014d6bcd63b4a504c3.js.map"
+    ],
+    "path---en-tags-android": [
+      "path---en-tags-android-0acb1ec28fa8e24fb723.js",
+      "path---en-tags-android-0acb1ec28fa8e24fb723.js.map"
+    ],
+    "component---src-pages-resume-languages-index-en-js": [
+      "component---src-pages-resume-languages-index-en-js-7acf4340f40d088565d6.js",
+      "component---src-pages-resume-languages-index-en-js-7acf4340f40d088565d6.js.map"
+    ],
+    "path---pt-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal": [
+      "path---pt-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal-2d1c1e3b7a7d16436ab5.js",
+      "path---pt-resume-jobs-and-clients-freelancer-alanmarcell-minesweeper-terminal-2d1c1e3b7a7d16436ab5.js.map"
+    ],
+    "path---pt-tags-zsh": [
+      "path---pt-tags-zsh-a024c6ef1ad0c1b731a6.js",
+      "path---pt-tags-zsh-a024c6ef1ad0c1b731a6.js.map"
+    ],
+    "path---en-blog-static-site-setup-ssl": [
+      "path---en-blog-static-site-setup-ssl-4ac9d5eff2e088fc5762.js",
+      "path---en-blog-static-site-setup-ssl-4ac9d5eff2e088fc5762.js.map"
+    ],
+    "path---pt-tags-es-2015": [
+      "path---pt-tags-es-2015-f4dc37aa3a307f38b9d4.js",
+      "path---pt-tags-es-2015-f4dc37aa3a307f38b9d4.js.map"
+    ],
+    "component---src-pages-resume-education-index-pt-js": [
+      "component---src-pages-resume-education-index-pt-js-7e69788dd9427d97fef8.js",
+      "component---src-pages-resume-education-index-pt-js-7e69788dd9427d97fef8.js.map"
+    ],
+    "component---src-pages-resume-education-index-fr-js": [
+      "component---src-pages-resume-education-index-fr-js-7e69788dd9427d97fef8.js",
+      "component---src-pages-resume-education-index-fr-js-7e69788dd9427d97fef8.js.map"
+    ],
+    "path---pt-tags-controle-de-versoes": [
+      "path---pt-tags-controle-de-versoes-a4e26effbc7911d2a098.js",
+      "path---pt-tags-controle-de-versoes-a4e26effbc7911d2a098.js.map"
+    ],
+    "path---pt-tags-dev-env": [
+      "path---pt-tags-dev-env-73f28caeef6b63332754.js",
+      "path---pt-tags-dev-env-73f28caeef6b63332754.js.map"
+    ],
+    "path---fr-tags-node-js": [
+      "path---fr-tags-node-js-2c53c1fa92631134aa5b.js",
+      "path---fr-tags-node-js-2c53c1fa92631134aa5b.js.map"
+    ],
+    "path---pt-tags-node-js": [
+      "path---pt-tags-node-js-634cab32544f1ad6df82.js",
+      "path---pt-tags-node-js-634cab32544f1ad6df82.js.map"
+    ],
+    "path---fr-tags-gatsby": [
+      "path---fr-tags-gatsby-265354ca1fba929ef77d.js",
+      "path---fr-tags-gatsby-265354ca1fba929ef77d.js.map"
+    ],
+    "path---fr-contact": [
+      "path---fr-contact-ad0854419cbdd111f11c.js",
+      "path---fr-contact-ad0854419cbdd111f11c.js.map"
+    ],
+    "path---fr-tags-programmation-fonctionnelle": [
+      "path---fr-tags-programmation-fonctionnelle-f80ac7ff9e52432183b3.js",
+      "path---fr-tags-programmation-fonctionnelle-f80ac7ff9e52432183b3.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-dc9f224893f64128dfb4.js",
+      "component---src-pages-404-js-dc9f224893f64128dfb4.js.map"
+    ],
+    "component---src-pages-resume-jobs-and-clients-index-en-js": [
+      "component---src-pages-resume-jobs-and-clients-index-en-js-a23fe2b75cdcff0e1e4a.js",
+      "component---src-pages-resume-jobs-and-clients-index-en-js-a23fe2b75cdcff0e1e4a.js.map"
+    ],
+    "path---fr-blog-terminal-install-zsh": [
+      "path---fr-blog-terminal-install-zsh-778da6689ed3e06bfc2f.js",
+      "path---fr-blog-terminal-install-zsh-778da6689ed3e06bfc2f.js.map"
+    ],
+    "path---fr-tags-https": [
+      "path---fr-tags-https-f35671faacafc6694b80.js",
+      "path---fr-tags-https-f35671faacafc6694b80.js.map"
+    ],
+    "commons": [
+      "commons-45e9a01ba5193cbf356c.js",
+      "commons-45e9a01ba5193cbf356c.js.map"
+    ],
+    "path---pt-tags-npm": [
+      "path---pt-tags-npm-b0a4cefc73539239c28f.js",
+      "path---pt-tags-npm-b0a4cefc73539239c28f.js.map"
+    ],
+    "path---fr-blog-linux-arch-install-fonts": [
+      "path---fr-blog-linux-arch-install-fonts-aa38b9003fcc7c420280.js",
+      "path---fr-blog-linux-arch-install-fonts-aa38b9003fcc7c420280.js.map"
+    ],
+    "path---pt-tags-es-6": [
+      "path---pt-tags-es-6-a90dd95ea2a411387f0c.js",
+      "path---pt-tags-es-6-a90dd95ea2a411387f0c.js.map"
+    ],
+    "path---en-tags-extract-files": [
+      "path---en-tags-extract-files-2eb89955b2733d311c40.js",
+      "path---en-tags-extract-files-2eb89955b2733d311c40.js.map"
+    ],
+    "path---tutoriais-dica-rapida-1-melhorar-performance-mvc": [
+      "path---tutoriais-dica-rapida-1-melhorar-performance-mvc-712286275428a4900d00.js",
+      "path---tutoriais-dica-rapida-1-melhorar-performance-mvc-712286275428a4900d00.js.map"
+    ],
+    "path---pt-tags-fontes": [
+      "path---pt-tags-fontes-81f6ece850fd72649741.js",
+      "path---pt-tags-fontes-81f6ece850fd72649741.js.map"
+    ],
+    "component---src-pages-index-en-js": [
+      "component---src-pages-index-en-js-a380fb554fec3c81dd0d.js",
+      "component---src-pages-index-en-js-a380fb554fec3c81dd0d.js.map"
+    ],
+    "path---en-blog-vim-vim-help-commands": [
+      "path---en-blog-vim-vim-help-commands-900524bedbb0d3cd52c3.js",
+      "path---en-blog-vim-vim-help-commands-900524bedbb0d3cd52c3.js.map"
+    ],
+    "path---en-blog-git-10-tips-to-start-using-github-and-cmd": [
+      "path---en-blog-git-10-tips-to-start-using-github-and-cmd-da4d1618743bba56fe14.js",
+      "path---en-blog-git-10-tips-to-start-using-github-and-cmd-da4d1618743bba56fe14.js.map"
+    ],
+    "path---fr-resume-languages": [
+      "path---fr-resume-languages-89ad44e2b1fea6a5ae59.js",
+      "path---fr-resume-languages-89ad44e2b1fea6a5ae59.js.map"
+    ],
+    "path---pt-blog-linux-arch-install-fonts": [
+      "path---pt-blog-linux-arch-install-fonts-6a91d6325d0c9c69aa9e.js",
+      "path---pt-blog-linux-arch-install-fonts-6a91d6325d0c9c69aa9e.js.map"
+    ],
+    "path---fr-blog-linux-arch-extract-files": [
+      "path---fr-blog-linux-arch-extract-files-a78cf3ec7596e8ef7476.js",
+      "path---fr-blog-linux-arch-extract-files-a78cf3ec7596e8ef7476.js.map"
+    ],
+    "path---fr-tags-anglais": [
+      "path---fr-tags-anglais-4e242c02805fc98060c3.js",
+      "path---fr-tags-anglais-4e242c02805fc98060c3.js.map"
+    ],
+    "path---fr-tags-controle-de-version": [
+      "path---fr-tags-controle-de-version-ee960888fd18f11037c1.js",
+      "path---fr-tags-controle-de-version-ee960888fd18f11037c1.js.map"
+    ],
+    "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-3-entities": [
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-3-entities-809212dc9aa5e9eeb1f3.js",
+      "path---tutoriais-projeto-completo-c-sharp-mvc-migrations-structure-map-ddd-tdd-parte-3-entities-809212dc9aa5e9eeb1f3.js.map"
+    ],
+    "path---pt-tags-java-script": [
+      "path---pt-tags-java-script-a6a794a3a50a011d467d.js",
+      "path---pt-tags-java-script-a6a794a3a50a011d467d.js.map"
+    ],
+    "path---en-blog-linux-arch-setup-nodejs-env": [
+      "path---en-blog-linux-arch-setup-nodejs-env-7607a18566ae0313b86c.js",
+      "path---en-blog-linux-arch-setup-nodejs-env-7607a18566ae0313b86c.js.map"
+    ],
+    "path---pt-blog-functional-programming-examples": [
+      "path---pt-blog-functional-programming-examples-7d27af5c0790ea3be051.js",
+      "path---pt-blog-functional-programming-examples-7d27af5c0790ea3be051.js.map"
+    ],
+    "path---pt-blog-linux-arch-fix-enospc-error": [
+      "path---pt-blog-linux-arch-fix-enospc-error-536ee88923cf118a8d5c.js",
+      "path---pt-blog-linux-arch-fix-enospc-error-536ee88923cf118a8d5c.js.map"
+    ],
+    "path---fr-blog-languages-french-learn-french-links": [
+      "path---fr-blog-languages-french-learn-french-links-2771e7396582a08993f9.js",
+      "path---fr-blog-languages-french-learn-french-links-2771e7396582a08993f9.js.map"
+    ],
+    "component---src-pages-blog-fr-js": [
+      "component---src-pages-blog-fr-js-4456df779ca4af9ebf04.js",
+      "component---src-pages-blog-fr-js-4456df779ca4af9ebf04.js.map"
+    ],
+    "path---pt-blog-languages-english-learn-english-links": [
+      "path---pt-blog-languages-english-learn-english-links-92a901c5c33b133c29a2.js",
+      "path---pt-blog-languages-english-learn-english-links-92a901c5c33b133c29a2.js.map"
+    ],
+    "path---fr-tags-git": [
+      "path---fr-tags-git-95d76759fc8608962547.js",
+      "path---fr-tags-git-95d76759fc8608962547.js.map"
+    ],
+    "path---pt-tags-ssl-com": [
+      "path---pt-tags-ssl-com-bdba477aab0cf3d3dede.js",
+      "path---pt-tags-ssl-com-bdba477aab0cf3d3dede.js.map"
+    ],
+    "component---src-pages-tags-index-pt-js": [
+      "component---src-pages-tags-index-pt-js-3b48cd40d3d2e55ec9c2.js",
+      "component---src-pages-tags-index-pt-js-3b48cd40d3d2e55ec9c2.js.map"
+    ],
+    "path---pt-resume": [
+      "path---pt-resume-476b03838f7de73f06f3.js",
+      "path---pt-resume-476b03838f7de73f06f3.js.map"
+    ],
+    "path---en-blog-languages-french-learn-french-links": [
+      "path---en-blog-languages-french-learn-french-links-b79809e8dc918bfa29a0.js",
+      "path---en-blog-languages-french-learn-french-links-b79809e8dc918bfa29a0.js.map"
+    ],
+    "path---en-tags-excel": [
+      "path---en-tags-excel-c901f0e9f9da78091168.js",
+      "path---en-tags-excel-c901f0e9f9da78091168.js.map"
+    ],
+    "path---pt-resume-jobs-and-clients-budbuds": [
+      "path---pt-resume-jobs-and-clients-budbuds-3a90688832ad8f7461ae.js",
+      "path---pt-resume-jobs-and-clients-budbuds-3a90688832ad8f7461ae.js.map"
+    ],
+    "component---src-pages-resume-jobs-and-clients-index-pt-js": [
+      "component---src-pages-resume-jobs-and-clients-index-pt-js-a23fe2b75cdcff0e1e4a.js",
+      "component---src-pages-resume-jobs-and-clients-index-pt-js-a23fe2b75cdcff0e1e4a.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---fr-tags-surge-sh": [
+      "path---fr-tags-surge-sh-dc8cbf82c86bed0b7b5c.js",
+      "path---fr-tags-surge-sh-dc8cbf82c86bed0b7b5c.js.map"
+    ],
+    "path---fr-tags-la-langue": [
+      "path---fr-tags-la-langue-c8d7d8b7fbc4a63babdf.js",
+      "path---fr-tags-la-langue-c8d7d8b7fbc4a63babdf.js.map"
+    ],
+    "path---en-tags-arch": [
+      "path---en-tags-arch-17e5f2f69b726a040814.js",
+      "path---en-tags-arch-17e5f2f69b726a040814.js.map"
+    ],
+    "path---fr-tags-command-line": [
+      "path---fr-tags-command-line-3414c243dfb0c8f49290.js",
+      "path---fr-tags-command-line-3414c243dfb0c8f49290.js.map"
+    ],
+    "path---fr-resume-jobs-and-clients-freelancer": [
+      "path---fr-resume-jobs-and-clients-freelancer-39937b18208ca2258b3c.js",
+      "path---fr-resume-jobs-and-clients-freelancer-39937b18208ca2258b3c.js.map"
+    ],
+    "path---en-tags-net": [
+      "path---en-tags-net-fcf624b5a1f9e5893e73.js",
+      "path---en-tags-net-fcf624b5a1f9e5893e73.js.map"
+    ],
+    "path---en-blog-languages-french-french-movies": [
+      "path---en-blog-languages-french-french-movies-896d2c10c8c908fac29d.js",
+      "path---en-blog-languages-french-french-movies-896d2c10c8c908fac29d.js.map"
+    ],
+    "path---fr-tags-libre-office": [
+      "path---fr-tags-libre-office-155372b5335dc883ed62.js",
+      "path---fr-tags-libre-office-155372b5335dc883ed62.js.map"
+    ],
+    "path---pt-tags-https": [
+      "path---pt-tags-https-b0b8af618a752c5dce4a.js",
+      "path---pt-tags-https-b0b8af618a752c5dce4a.js.map"
+    ],
+    "path---pt-resume-jobs-and-clients-budbuds-app": [
+      "path---pt-resume-jobs-and-clients-budbuds-app-ada235eeecee8a304855.js",
+      "path---pt-resume-jobs-and-clients-budbuds-app-ada235eeecee8a304855.js.map"
+    ],
+    "component---src-pages-contact-index-fr-js": [
+      "component---src-pages-contact-index-fr-js-d9bb241f3d26be06bda1.js",
+      "component---src-pages-contact-index-fr-js-d9bb241f3d26be06bda1.js.map"
+    ],
+    "path---en-resume-education": [
+      "path---en-resume-education-4d534ec78d7458f3d686.js",
+      "path---en-resume-education-4d534ec78d7458f3d686.js.map"
+    ],
+    "path---fr-tags-word": [
+      "path---fr-tags-word-1e7d3ad21fddcc89c3a7.js",
+      "path---fr-tags-word-1e7d3ad21fddcc89c3a7.js.map"
+    ],
+    "path---en-tags-dev-env": [
+      "path---en-tags-dev-env-18cc734da68a1a41f776.js",
+      "path---en-tags-dev-env-18cc734da68a1a41f776.js.map"
+    ],
+    "path---en-tags-node-js": [
+      "path---en-tags-node-js-da8bd9f0f9d5d2f7f5aa.js",
+      "path---en-tags-node-js-da8bd9f0f9d5d2f7f5aa.js.map"
+    ],
+    "path---en-blog-languages-english-learn-english-links": [
+      "path---en-blog-languages-english-learn-english-links-ee93a5a4ba8f5037a387.js",
+      "path---en-blog-languages-english-learn-english-links-ee93a5a4ba8f5037a387.js.map"
+    ],
+    "path---pt-about": [
+      "path---pt-about-352d29a0b389f15c10d1.js",
+      "path---pt-about-352d29a0b389f15c10d1.js.map"
+    ],
+    "component---src-pages-tags-index-en-js": [
+      "component---src-pages-tags-index-en-js-3b48cd40d3d2e55ec9c2.js",
+      "component---src-pages-tags-index-en-js-3b48cd40d3d2e55ec9c2.js.map"
+    ],
+    "path---pt-resume-jobs-and-clients": [
+      "path---pt-resume-jobs-and-clients-4032df70a0226bf8e9c3.js",
+      "path---pt-resume-jobs-and-clients-4032df70a0226bf8e9c3.js.map"
+    ],
+    "app": [
+      "app-73bfb32e30ad50260d59.js",
+      "app-73bfb32e30ad50260d59.js.map"
+    ],
+    "path---en-blog-linux-arch-install-yaourt": [
+      "path---en-blog-linux-arch-install-yaourt-e7eeb2429f8dcbbd6aea.js",
+      "path---en-blog-linux-arch-install-yaourt-e7eeb2429f8dcbbd6aea.js.map"
+    ],
+    "path---fr-blog-functional-programming-examples": [
+      "path---fr-blog-functional-programming-examples-c6427e61124945542c1d.js",
+      "path---fr-blog-functional-programming-examples-c6427e61124945542c1d.js.map"
+    ],
+    "component---src-templates-resume-project-js": [
+      "component---src-templates-resume-project-js-d9d47d25b1bcfc2a1df1.js",
+      "component---src-templates-resume-project-js-d9d47d25b1bcfc2a1df1.js.map"
+    ],
+    "path---fr-tags-ssl-com": [
+      "path---fr-tags-ssl-com-794f6ef062c83b88fced.js",
+      "path---fr-tags-ssl-com-794f6ef062c83b88fced.js.map"
+    ],
+    "path---pt-tags-arch": [
+      "path---pt-tags-arch-272e6ccdd1a32e337570.js",
+      "path---pt-tags-arch-272e6ccdd1a32e337570.js.map"
+    ],
+    "path---en-blog-js-spred-operator": [
+      "path---en-blog-js-spred-operator-28153db68416e689ed87.js",
+      "path---en-blog-js-spred-operator-28153db68416e689ed87.js.map"
+    ],
+    "path---pt-tags-excel": [
+      "path---pt-tags-excel-85db96561a3e51cc1512.js",
+      "path---pt-tags-excel-85db96561a3e51cc1512.js.map"
+    ],
+    "path---en-blog-linux-arch-extract-files": [
+      "path---en-blog-linux-arch-extract-files-534eed9df804260f0854.js",
+      "path---en-blog-linux-arch-extract-files-534eed9df804260f0854.js.map"
+    ],
+    "path---en-tags-version-control": [
+      "path---en-tags-version-control-c2a94c9ba87f965f1286.js",
+      "path---en-tags-version-control-c2a94c9ba87f965f1286.js.map"
+    ],
+    "path---fr-tags-es-6": [
+      "path---fr-tags-es-6-49f1b26544f232f2d2bb.js",
+      "path---fr-tags-es-6-49f1b26544f232f2d2bb.js.map"
+    ],
+    "path---en-tags-zsh": [
+      "path---en-tags-zsh-ca76ff1b979ef7e620c8.js",
+      "path---en-tags-zsh-ca76ff1b979ef7e620c8.js.map"
+    ],
+    "path---fr-tags-dev-env": [
+      "path---fr-tags-dev-env-e926536cbf303127a2e3.js",
+      "path---fr-tags-dev-env-e926536cbf303127a2e3.js.map"
+    ],
+    "path---en-tags-https": [
+      "path---en-tags-https-6f97375afefdebb881a2.js",
+      "path---en-tags-https-6f97375afefdebb881a2.js.map"
+    ],
+    "path---en": [
+      "path---en-cae92ac5046a4817ba70.js",
+      "path---en-cae92ac5046a4817ba70.js.map"
+    ],
+    "path---404": [
+      "path---404-9afb230f4d1be55068f6.js",
+      "path---404-9afb230f4d1be55068f6.js.map"
+    ],
+    "path---en-tags-surge-sh": [
+      "path---en-tags-surge-sh-2c63d6801d4a4710b6f1.js",
+      "path---en-tags-surge-sh-2c63d6801d4a4710b6f1.js.map"
+    ],
+    "component---src-pages-about-index-pt-js": [
+      "component---src-pages-about-index-pt-js-0f89a87e0e4a4acf4c0c.js",
+      "component---src-pages-about-index-pt-js-0f89a87e0e4a4acf4c0c.js.map"
+    ],
+    "component---src-pages-resume-index-en-js": [
+      "component---src-pages-resume-index-en-js-8cb7a23b09d0fa0c1a9c.js",
+      "component---src-pages-resume-index-en-js-8cb7a23b09d0fa0c1a9c.js.map"
+    ],
+    "path---fr-resume-education": [
+      "path---fr-resume-education-e1535bd322d6a85eb52a.js",
+      "path---fr-resume-education-e1535bd322d6a85eb52a.js.map"
+    ],
+    "path---pt-tags-android": [
+      "path---pt-tags-android-650713c443399da1edcc.js",
+      "path---pt-tags-android-650713c443399da1edcc.js.map"
+    ],
+    "path---fr-blog-linux-arch-install-yaourt": [
+      "path---fr-blog-linux-arch-install-yaourt-88febb7046dd8c1cba55.js",
+      "path---fr-blog-linux-arch-install-yaourt-88febb7046dd8c1cba55.js.map"
+    ],
+    "path---fr-blog-vim-vim-help-commands": [
+      "path---fr-blog-vim-vim-help-commands-84d40f5ea5b9d8137781.js",
+      "path---fr-blog-vim-vim-help-commands-84d40f5ea5b9d8137781.js.map"
+    ],
+    "path---en-tags-french": [
+      "path---en-tags-french-dad1bc40ff42e2c682aa.js",
+      "path---en-tags-french-dad1bc40ff42e2c682aa.js.map"
+    ],
+    "path---pt-tags-linha-de-commando": [
+      "path---pt-tags-linha-de-commando-ce3c53bf8aea6b19782d.js",
+      "path---pt-tags-linha-de-commando-ce3c53bf8aea6b19782d.js.map"
+    ],
+    "path---pt-tags-git": [
+      "path---pt-tags-git-023683f915b052e912bb.js",
+      "path---pt-tags-git-023683f915b052e912bb.js.map"
+    ],
+    "path---fr-blog-linux-arch-backup-android-files": [
+      "path---fr-blog-linux-arch-backup-android-files-9ca0abd7b4d283895851.js",
+      "path---fr-blog-linux-arch-backup-android-files-9ca0abd7b4d283895851.js.map"
+    ],
+    "path---fr-tags-android": [
+      "path---fr-tags-android-f0727fc51293cd51a351.js",
+      "path---fr-tags-android-f0727fc51293cd51a351.js.map"
+    ],
+    "path---en-resume-jobs-and-clients-budbuds": [
+      "path---en-resume-jobs-and-clients-budbuds-3a90688832ad8f7461ae.js",
+      "path---en-resume-jobs-and-clients-budbuds-3a90688832ad8f7461ae.js.map"
+    ],
+    "path---pt-resume-jobs-and-clients-freelancer": [
+      "path---pt-resume-jobs-and-clients-freelancer-39937b18208ca2258b3c.js",
+      "path---pt-resume-jobs-and-clients-freelancer-39937b18208ca2258b3c.js.map"
+    ],
+    "path---pt-blog-vim-vim-help-commands": [
+      "path---pt-blog-vim-vim-help-commands-f67fd8bb31078d7fd98c.js",
+      "path---pt-blog-vim-vim-help-commands-f67fd8bb31078d7fd98c.js.map"
+    ],
+    "path---en-blog-linux-arch-fix-enospc-error": [
+      "path---en-blog-linux-arch-fix-enospc-error-99c2d19d456b6b882549.js",
+      "path---en-blog-linux-arch-fix-enospc-error-99c2d19d456b6b882549.js.map"
+    ],
+    "path---fr-tags-francais": [
+      "path---fr-tags-francais-c88ef0414a0a32974eb6.js",
+      "path---fr-tags-francais-c88ef0414a0a32974eb6.js.map"
+    ],
+    "path---pt-tags-linux": [
+      "path---pt-tags-linux-ec4ea09d72597c99cbbe.js",
+      "path---pt-tags-linux-ec4ea09d72597c99cbbe.js.map"
+    ],
+    "path---en-blog-functional-programming-examples": [
+      "path---en-blog-functional-programming-examples-c7f492d8d56b12ab71e0.js",
+      "path---en-blog-functional-programming-examples-c7f492d8d56b12ab71e0.js.map"
+    ],
+    "path---fr-tags-linux": [
+      "path---fr-tags-linux-43410683c3cd687e3355.js",
+      "path---fr-tags-linux-43410683c3cd687e3355.js.map"
+    ],
+    "path---pt-tags-idiomas": [
+      "path---pt-tags-idiomas-3da265c9dd691631a5b1.js",
+      "path---pt-tags-idiomas-3da265c9dd691631a5b1.js.map"
+    ]
+  }
+}

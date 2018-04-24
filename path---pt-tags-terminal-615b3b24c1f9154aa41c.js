@@ -1,0 +1,2 @@
+webpackJsonp([0x7fd224185700],{1084:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Instalar ZSH e oh-my-zsh",date:"2017-06-23"},fields:{slug:"/pt/blog/terminal/install-zsh/",langKey:"pt"},excerpt:"Instalar ZSH https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH Instalar oh-my-zsh Baixar Instalar Transformar zsh em terminal…"}}]}},pathContext:{tag:"Terminal",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-tags-terminal-615b3b24c1f9154aa41c.js.map

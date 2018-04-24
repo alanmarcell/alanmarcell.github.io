@@ -1,0 +1,2 @@
+webpackJsonp([91489873811874],{1002:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Comment utiliser Word et Excel dans Linux ou peut-être pas...",date:"2017-08-30"},fields:{slug:"/fr/blog/linux/arch/install-libre-office/",langKey:"fr"},excerpt:"Avez-vous besoin de modifier des fichiers dans Word et Excel sous Linux? Suivez mes étapes pour installer LibreOffice, un paquet de…"}}]}},pathContext:{tag:"Excel",langKey:"fr"}}}});
+//# sourceMappingURL=path---fr-tags-excel-ec5d08e16f5ff42ac368.js.map

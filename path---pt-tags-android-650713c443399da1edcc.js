@@ -1,0 +1,2 @@
+webpackJsonp([0xf10cf269ba33],{1057:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Como salvar fotos do celular pro Arch Linux",date:"2017-08-30"},fields:{slug:"/pt/blog/linux/arch/backup-android-files/",langKey:"pt"},excerpt:"O seu telefone esta lotado? Faça backup dos seus arquivos pro Arch Linux.\nVai ser fácil seguindo este tutorial (Eu espero hahaha).\nEu tive…"}}]}},pathContext:{tag:"Android",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-tags-android-650713c443399da1edcc.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([62937611849931],{934:function(l,t){l.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Install ZSH and oh-my-zsh",date:"2017-06-23"},fields:{slug:"/en/blog/terminal/install-zsh/",langKey:"en"},excerpt:"Install ZSH https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH Install oh-my-zsh Download Install Make it your default shell…"}}]}},pathContext:{tag:"Command line",langKey:"en"}}}});
+//# sourceMappingURL=path---en-tags-command-line-8aad2a76215fcadec8b6.js.map

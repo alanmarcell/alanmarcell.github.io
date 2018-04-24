@@ -1,0 +1,2 @@
+webpackJsonp([0x8f203edaf19c],{1005:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Comment configurer ssl https:// pour votre site",date:"2017-08-30"},fields:{slug:"/fr/blog/static-site/setup-ssl/",langKey:"fr"},excerpt:"Comment configurer  https://  en utilisant  surge.sh  et  ssl.com .\nC’était un peu difficile de rassembler toutes les pièces, j’espère que…"}}]}},pathContext:{tag:"Gatsby",langKey:"fr"}}}});
+//# sourceMappingURL=path---fr-tags-gatsby-265354ca1fba929ef77d.js.map

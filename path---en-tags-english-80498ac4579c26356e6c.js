@@ -1,0 +1,2 @@
+webpackJsonp([0x966ff24f47d],{936:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Learn English links",date:"2017-10-16"},fields:{slug:"/en/blog/languages/english/learn-english-links/",langKey:"en"},excerpt:"Tests, correct pronunciation, tips and more. Learn and contribute to this collection of free content to learn English. (New links weekly…"}}]}},pathContext:{tag:"English",langKey:"en"}}}});
+//# sourceMappingURL=path---en-tags-english-80498ac4579c26356e6c.js.map

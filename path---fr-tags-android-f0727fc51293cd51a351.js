@@ -1,0 +1,2 @@
+webpackJsonp([0xf55330e0c577],{994:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Comment enregistrer des photos depuis votre téléphone vers Arch Linux",date:"2017-08-30"},fields:{slug:"/fr/blog/linux/arch/backup-android-files/",langKey:"fr"},excerpt:"Votre téléphone est-il plein? Sauvegardez vos fichiers Arch Linux.\nIl sera facile de suivre ce tutoriel (j’espère jajaja).\nJ’ai eu quelques…"}}]}},pathContext:{tag:"Android",langKey:"fr"}}}});
+//# sourceMappingURL=path---fr-tags-android-f0727fc51293cd51a351.js.map

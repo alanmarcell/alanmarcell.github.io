@@ -1,0 +1,2 @@
+webpackJsonp([9781189174063],{1082:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Como configurar ssl https:// pro seu site",date:"2017-08-26"},fields:{slug:"/pt/blog/static-site/setup-ssl/",langKey:"pt"},excerpt:"Como configurar  https://  usando  surge.sh  e  ssl.com .\nFoi um pouco difícil juntar todas as peças, espero poder ajudar quem esteja com…"}}]}},pathContext:{tag:"ssl",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-tags-ssl-6f2bd6a7ce23f12d98c3.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([47095591337967],{1085:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Vim ajuda com comandos",date:"2017-08-08"},fields:{slug:"/pt/blog/vim/vim-help-commands/",langKey:"pt"},excerpt:"Vim é um editor de texto da velha guarda, ele é executado no console, é o mais rápido de todos.\nÉ a melhor opção para acessar servidores…"}}]}},pathContext:{tag:"Text Editor",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-tags-text-editor-0685739605ec87e3da82.js.map

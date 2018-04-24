@@ -1,0 +1,2 @@
+webpackJsonp([0x667a7dca4631],{1072:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Aprenda Inglês (Links)",date:"2017-10-16"},fields:{slug:"/pt/blog/languages/english/learn-english-links/",langKey:"pt"},excerpt:"Testes, pronuncia correta, dicas e muito mais. Aprenda e contribua para essa coleção de conteúdo gratuito para aprender Inglês. (Novos links…"}}]}},pathContext:{tag:"Inglês",langKey:"pt"}}}});
+//# sourceMappingURL=path---pt-tags-ingles-13f9591655fa3d7225ef.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xba9845462050],{939:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How to use Word and Excel on Linux or maybe not...",date:"2017-08-30"},fields:{slug:"/en/blog/linux/arch/install-libre-office/",langKey:"en"},excerpt:"Do you need Word and Excel on linux?\nFollow my steps to install LibreOffice an open source option for linux distros. Install LibreOffice…"}}]}},pathContext:{tag:"Excel",langKey:"en"}}}});
+//# sourceMappingURL=path---en-tags-excel-c901f0e9f9da78091168.js.map
