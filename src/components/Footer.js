@@ -10,10 +10,10 @@ import Ca from './flags/Ca';
 const Link = styled(A)`
   display: inline-block;
 
-  padding-top: ${({theme}) => theme.scale(6)};
-  padding-bottom: ${({theme}) => theme.scale(7)};
-  padding-right: ${({theme}) => theme.scale(0)};
-  padding-left: ${({theme}) => theme.scale(0)};
+  padding-top: ${({ theme }) => theme.scale(6)};
+  padding-bottom: ${({ theme }) => theme.scale(7)};
+  padding-right: ${({ theme }) => theme.scale(0)};
+  padding-left: ${({ theme }) => theme.scale(0)};
   margin: 0;
 
   line-height: 1.5;
@@ -83,37 +83,28 @@ const getCreatedBy = (author) => {
 
   return {
     en: (
-      
-        <Link href={author.defaultLink} target="_blank">
-          
-          {'Built with '} <HeartIcon />
-          {' by '} <span>{author.name}</span>
-          {' who lives in '} <span>{author.homeCity}</span>
-          <HomeCountryIcon />
-        </Link>
-      
+      <Link href={author.defaultLink} target="_blank">
+        {'Built with '} <HeartIcon />
+        {' by '} <span>{author.name}</span>
+        {' who lives in '} <span>{author.homeCity}</span>
+        <HomeCountryIcon />
+      </Link>
     ),
     pt: (
-      
-        <Link href={author.defaultLink} target="_blank">
-          
-          {'Criado com '} <HeartIcon />
-          {' por '} <span>{author.name}</span>
-          {' que mora em '} <span>{author.homeCity}</span>
-          <HomeCountryIcon />
-        </Link>
-      
+      <Link href={author.defaultLink} target="_blank">
+        {'Criado com '} <HeartIcon />
+        {' por '} <span>{author.name}</span>
+        {' que mora em '} <span>{author.homeCity}</span>
+        <HomeCountryIcon />
+      </Link>
     ),
     fr: (
-      
-        <Link href={author.defaultLink} target="_blank">
-          
-          {'Créé avec '} <HeartIcon />
-          {' par '} <span>{author.name}</span>
-          {' qui vit à '} <span>{author.homeCity}</span>
-          <HomeCountryIcon />
-        </Link>
-      
+      <Link href={author.defaultLink} target="_blank">
+        {'Créé avec '} <HeartIcon />
+        {' par '} <span>{author.name}</span>
+        {' qui vit à '} <span>{author.homeCity}</span>
+        <HomeCountryIcon />
+      </Link>
     )
   };
 };
@@ -122,8 +113,10 @@ const Footer = ({ creator, sourceCodeLink, currentLangKey }) => {
   return (
     <footer>
       <FooterSection>
-        <Link href={sourceCodeLink} target="_blank">
         {getCreatedBy(creator)[currentLangKey]}
+      </FooterSection>
+      <FooterSection>
+        <Link href={sourceCodeLink} target="_blank">
           {getGitHubMsg()[currentLangKey]}
         </Link>
       </FooterSection>
@@ -132,7 +125,7 @@ const Footer = ({ creator, sourceCodeLink, currentLangKey }) => {
 };
 
 Footer.propTypes = {
-  author: PropTypes.object.isRequired,
+  creator: PropTypes.object.isRequired,
   sourceCodeLink: PropTypes.string.isRequired,
   currentLangKey: PropTypes.string
 };

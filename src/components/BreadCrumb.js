@@ -48,6 +48,7 @@ const BreadCrumb = ({ items }) => {
       {
         items.map(item => (
           <BreadCrumbItem
+            key={item.label}
             {...item}
           />
         ))

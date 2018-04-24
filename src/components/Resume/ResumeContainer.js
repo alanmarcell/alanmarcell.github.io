@@ -112,7 +112,7 @@ const ResumeContainer = (props) => {
       {props.children}
       <footer>
         <Ul>
-          {menu.map(page => (<Page {...page} />))}
+          {menu.map(page => (<Page key={page.label} {...page} />))}
         </Ul>
       </footer>
     </section>
