@@ -18,9 +18,9 @@ module.exports = {
   sourceCodeLink: 'https://github.com/angeloocana/angeloocana',
   menu: [
     {label: 'home', slug: '/'},
-    {label: 'posts', slug: '/blog/'},
-    {label: 'tags', slug: '/tags/'},
-    {label: 'about', slug: '/about/'},
+    // {label: 'posts', slug: '/blog/'},
+    // {label: 'tags', slug: '/tags/'},
+    // {label: 'about', slug: '/about/'},
     {
       label: 'resume', 
       slug: '/resume/',

@@ -43,21 +43,21 @@ const SocialLinks = () => {
     <section>
       <Ul>
         <li>
-          <A href="https://github.com/angeloocana" target="_blank">
+          <A href="https://github.com/alanmarcell" target="_blank">
             <GithubIcon />Github
           </A>
         </li>
         <li>
-          <A href="https://pluralsight.com/profile/ocanaangelo" target="_blank">
+          <A href="https://pluralsight.com/profile/alanmarcell" target="_blank">
             <PluralsightIcon />Pluralsight
           </A>
         </li>
-        <li>
+        {/* <li>
           <A href="https://youtube.com/ocanaangelo" target="_blank">
             <YoutubeIcon />Youtube
           </A>
-        </li>
-        <li>
+        </li> */}
+        {/* <li>
           <A href="https://facebook.com/angeloocanadev" target="_blank">
             <FacebookIcon />Facebook
           </A>
@@ -66,7 +66,7 @@ const SocialLinks = () => {
           <A href="https://twitter.com/ocanaangelo" target="_blank">
             <TwitterIcon />Twitter
           </A>
-        </li>
+        </li> */}
       </Ul>
     </section>
   );
