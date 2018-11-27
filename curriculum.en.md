@@ -12,7 +12,7 @@ FullStack Developer
 
 ### Preferred Technologies
 
-React, GraphQL, NodeJS, Docker, ES6, Typescript, MongoDB, Enzyme, Netlify.
+React, Redux, GraphQL, NodeJS, Docker, ES6, MongoDB, Detox, Cypress, Enzyme.
 
 ### Preferred Methodologies
 
@@ -20,20 +20,32 @@ Functional Programming, Test Driven Design (TDD), Clean Code, Mobile First.
 
 ### Preferred Tools
 
-Visual Studio Code, Github, Linux, Terminator, Fish, Travis.
+Visual Studio Code, Gitlab, Manjaro Linux, Terminator, Fish, Travis, Netlify, Bitrise.
 
 ---
 
 ## Professional experience
 
-### **Budbuds.us** - Fullstack Developer
+### **Amodev** - Associate Consultant
 
-`01/11/2017 – 01/03/2018`
+##### Budbuds<span>.us - Crop control and evaluation tool
 
-Cross-platform application developed in React Native
+`01/11/2017 – Current`
 
-* **Main Technologies:** React Native, Graphql, NodeJs, Docker, Hapi, Postgress, Redux, Redux-Saga, Jest, Enzyme
-* **Main methodologies:** Clean Code, TDD, MVP Canvas
+Crop control and evaluation cross-platform application developed in React Native
+
+- **Main Technologies:** React Native, Graphql, NodeJs, Docker, Hapi, Postgress, Redux, Redux-Saga, Detox, Jest, Enzyme
+- **Main methodologies:** Clean Code, TDD, MVP Canvas
+
+##### Clube Bitcoin / bitPreço - Cripto Currency Marketplace and Simulator
+
+`06/2018 – 10/2018` \
+**Front-end Architect**
+
+Initially an crypto coins exchange project which eventually turned into a market place of crypto coins. Also counts with the Club Bitcoin Simulator, a simulator for the crypto currencies market.
+
+- **Main Technologies:** ReactJS, RestAPI, Redux, Redux-Saga, Material-UI, Cypress, Jest, Enzyme, StoryBook
+- **Main methodologies:** Clean Code, TDD, Mobile First, Lean Startup
 
 ### **Accenture** - Digital Business Integration Analyst
 
@@ -45,23 +57,23 @@ Cross-platform application developed in React Native
 
 ##### Linkapi - Integration Platform
 
-* **Main Technologies:** NodeJS, MongoDB, Docker, RabbitMQ, Pm2, Mocha, ES6
-* **Main methodologies:** Clean Code, TDD, MVP Canvas
+- **Main Technologies:** NodeJS, MongoDB, Docker, RabbitMQ, Pm2, Mocha, ES6
+- **Main methodologies:** Clean Code, TDD, MVP Canvas
 
 ##### Bematech GDI - App in Ionic 2 for POS Report Management
 
-* **Main Technologies:** Ionic 2, Angular2, Typescript
-* **Main methodologies:** Clean Code
+- **Main Technologies:** Ionic 2, Angular2, Typescript
+- **Main methodologies:** Clean Code
 
-##### E-commerce performance analysis project in ASP.NET
+##### E-commerce performance analysis project in ASP<span>.NET
 
-* **Main Technologies:** Visual Studio Web Test, New Relic, Dynatrace, Fiddler
+- **Main Technologies:** Visual Studio Web Test, New Relic, Dynatrace, Fiddler
 
 ##### Winner of the Big Hackaton-ONU at Campus Party 10 - Health Keeper Project
 
-* **Main Technologies:** AngularJs, NodeJS, MongoDB, Express
+- **Main Technologies:** AngularJs, NodeJS, MongoDB, Express
 
-* **Main methodologies:** MVP Canvas, Lean Startup, Agile Development
+- **Main methodologies:** MVP Canvas, Lean Startup, Agile Development
 
 ### **Ângelo Ocanã Consulting and Training** - Trainee
 
@@ -69,11 +81,11 @@ Cross-platform application developed in React Native
 
 ##### Staffgeist - Web App for Workplace Assessment
 
-* **Main Technologies:** MVC, API, Angular JS, .NET 4.5 using C# language
+- **Main Technologies:** MVC, API, Angular JS, .NET 4.5 using C# language
 
-* **Main methodologies:** Domain Driven Design (DDD), Test Domain Development (TDD)
+- **Main methodologies:** Domain Driven Design (DDD), Test Domain Development (TDD)
 
-* **Database:** MongoDB
+- **Database:** MongoDB
 
 ### **Reorder IT Consulting** - Support Analyst
 
@@ -125,18 +137,18 @@ Microcamp Barueri
 
 ### Courses
 
-* **Building Scalable APIs with GraphQL,** Samer Buna – Pluralsight
-* **Building Data-driven React Applications with Relay, GraphQL, and Flux,** Samer Buna – Pluralsight
-* **Advanced Node.js,** Samer Buna – Pluralsight
-* **Understanding Machine Learning with Python,** Jerry Kurata – Pluralsight
-* **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
-* **See more at** [pluralsight.com](app.pluralsight.com/profile/alanmarcell)
+- **Building Scalable APIs with GraphQL,** Samer Buna – Pluralsight
+- **Building Data-driven React Applications with Relay, GraphQL, and Flux,** Samer Buna – Pluralsight
+- **Advanced Node.js,** Samer Buna – Pluralsight
+- **Understanding Machine Learning with Python,** Jerry Kurata – Pluralsight
+- **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
+- **See more at** [pluralsight.com](app.pluralsight.com/profile/alanmarcell)
 
 ### Languages
 
-* **English:** Advanced
-* **Spanish:** Proficient
-* **French:** Beginner
+- **English:** Advanced
+- **Spanish:** Proficient
+- **French:** Beginner
 
 ### Knowledge
 
