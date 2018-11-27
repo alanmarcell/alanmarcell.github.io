@@ -15,7 +15,7 @@
 ## **Conhecimentos**
 
 **Tecnologias:**
-NodeJS, React, GraphQL, Docker, Angular, Typescript, Web API, HTML5, SASS, MongoDB, Ionic2, Mocha, Python, AWS Lambda.
+NodeJS, React, GraphQL, Detox, Docker, Angular, Typescript, Web API, HTML5, SASS, MongoDB, Ionic2, Mocha, Python, AWS Lambda.
 
 **Metodologias:**
 Functional Programming, Test Driven Design (TDD), Domain Driven Design (DDD), MVP Canvas, Design Thinking, Lean StartUp, Clean Code, Mobile First.
