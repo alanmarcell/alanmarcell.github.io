@@ -30,8 +30,7 @@ Visual Studio Code, Gitlab, Manjaro Linux, MacOS, Terminator, Fish, Travis, Netl
 
 #### Budbuds<span>.us - Crop control and evaluation tool
 
-**Fullstack Engineer**\
-`01/11/2017 – Current`
+**Fullstack Engineer** - `01/11/2017 – Current`
 
 Crop control and evaluation cross-platform application developed in React Native
 
@@ -43,8 +42,7 @@ Crop control and evaluation cross-platform application developed in React Native
 
 #### DONG - De olho na gôndola
 
-**Fullstack Engineer**\
-`01/03/2019 – 01/09/2019`
+**Fullstack Engineer** - `01/03/2019 – 01/09/2019`
 
 Trade marketing application with geolocated GPS, dynamic data collection backoffice controlled, visit history, etc.
 
@@ -55,8 +53,7 @@ Trade marketing application with geolocated GPS, dynamic data collection backoff
 
 #### [bitPreço](https://market.bitpreco.com) / [Simulador Clube Bitcoin](https://simulador.clubebitcoin.net/login) - Cripto Currency Marketplace and Simulator
 
-**Front-end Architect**\
-`06/2018 – 10/2018`
+**Front-end Architect** - `06/2018 – 10/2018`
 
 Initially an crypto coins exchange project which eventually turned into a market place of crypto coins. Also counts with the Club Bitcoin Simulator, a simulator for the crypto currencies market.
 
@@ -65,8 +62,7 @@ Initially an crypto coins exchange project which eventually turned into a market
 
 ### **Devires Tecnologia**
 
-**Fullstack Engineer**\
-`01/08/2019 - 27/03/2020`
+**Fullstack Engineer** - `01/08/2019 - 27/03/2020`
 
 #### QSaúde Web Ecommerce Portal
 
@@ -87,8 +83,7 @@ Application for health plan with features such as telemedicine, appointment sche
 
 ### **Accenture**
 
-**Digital Business Integration Analyst**\
-`01/08/2017 – 01/11/2017`
+**Digital Business Integration Analyst** - `01/08/2017 – 01/11/2017`
 
 #### Vai de Visa - Visa's campaign web app
 
@@ -96,8 +91,7 @@ Application for health plan with features such as telemedicine, appointment sche
 
 ### **FCamara Training and Consulting**
 
-**Fullstack Developer**\
-`07/04/2017 – 09/06/2017`
+**Fullstack Developer** - `07/04/2017 – 09/06/2017`
 
 #### Linkapi
 
@@ -106,8 +100,7 @@ Integration Platform
 - **Main Technologies:** NodeJS, MongoDB, Docker, RabbitMQ, Pm2, Mocha, ES6, AngularJs
 - **Main methodologies:** Clean Code, TDD, MVP Canvas
 
-**Trainee**\
-`07/12/2016 – 07/04/2017`
+**Trainee** - `07/12/2016 – 07/04/2017`
 
 #### Bematech GDI
 
@@ -128,8 +121,7 @@ App in Ionic 2 for POS Report Management
 
 ### **Ângelo Ocanã Consulting and Training**
 
-**Trainee**\
-`13/04/2016 – 13/10/2016`
+**Trainee** - `13/04/2016 – 13/10/2016`
 
 #### Staffgeist - Web App for Workplace Assessment
 
@@ -141,22 +133,19 @@ App in Ionic 2 for POS Report Management
 
 ### **Reorder IT Consulting**
 
-**Support Analyst**\
-`19/08/2016 – 13/06/2016`
+**Support Analyst** - `19/08/2016 – 13/06/2016`
 
 Tier III Data Center Support: T-Systems: Backup tape management, physical server and infrastructure monitoring, incident and change validation, technical follow-up, installation and uninstallation of equipment, receipt and shipment of equipment, among other duties.
 
 ### **VIP Systems**
 
-**Support Analyst**\
-`02/2013 - 06/2013`
+**Support Analyst** - `02/2013 - 06/2013`
 
 Support for systems developed in the company, such as access control, cash systems, RFID technology, etc. Maintenance and assembly of equipment for customers and commercial demonstrations, including RFID equipment.
 
 ### **Sitel Brasil**
 
-**Support Analyst**\
-`12/2012 - 02/2013`
+**Support Analyst** - `12/2012 - 02/2013`
 
 Service and support for Lenovo equipment warranty.
 
