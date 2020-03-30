@@ -1,157 +1,214 @@
+# Alan Marcell de Oliveira
+
 **Email:** [alanmarcell@live.com](mailto:alanmarcell@live.com)  
-**Linkedin:** [linkedin.com/in/alanmarcell](https://linkedin.com/in/alanmarcell)  
-**Pluralsight:** [app.pluralsight.com/profile/alanmarcell](app.pluralsight.com/profile/alanmarcell)
+**Github:** [github.com/alanmarcell](github.com/alanmarcell)  
+**Linkedin:** [linkedin.com/in/alanmarcell](https://linkedin.com/in/alanmarcell)
 
-## Resumo
+## Resume
 
-### Objetivo Profissional
+### Professional Goal
 
-Programador FullStack
+FullStack Developer
 
-### Tecnologias preferidas
+### Preferred Technologies
 
-React, GraphQL, NodeJS, Docker, ES6, Typescript, MongoDB, Enzyme, Netlify.
+React, Redux, GraphQL, NodeJS, Docker, ES6, MongoDB, Detox, Cypress, Jest.
 
-### Metodologias preferidas
+### Preferred Methodologies
 
 Functional Programming, Test Driven Design (TDD), Clean Code, Mobile First.
 
-### Ferramentas preferidas
+### Preferred Tools
 
-Visual Studio Code, Github, Linux, Terminator, Fish, Travis.
+Visual Studio Code, Gitlab, Manjaro Linux, MacOS, Terminator, Fish, Travis, Netlify, Bitrise.
 
 ---
 
-## Experiência profissional
+## Professional experience
 
-### **[Budbuds.us](http://budbuds.us/)** - Fullstack Developer
+### **Amodev** - Associate Consultant
 
-`01/11/2017 – 01/03/2018`
+#### Budbuds<span>.us - Crop control and evaluation tool
 
-Aplicativo multiplataforma desenvolvido em React Native
+**Fullstack Engineer**\
+`01/11/2017 – Current`
 
-* **Principais tecnologias:** React Native, Graphql, Docker, Redux, Redux-Saga, Jest, Enzyme
-* **Principais metodologias:** Clean Code, TDD, MVP Canvas
+Crop control and evaluation cross-platform application developed in React Native
 
-[![alt text](assets/google-play-badge.png 'Budbuds.us - Google Play')](https://play.google.com/store/apps/details?id=us.budbuds)
-[![alt text](assets/apple-store-badge.png 'Budbuds.us - Apple Store')](https://itunes.apple.com/us/app/budbuds-us/id1112825348)
+- **Main Technologies:** React Native, Graphql, NodeJs, Docker, Hapi, Postgress, Redux, Redux-Saga, Detox, Jest, Enzyme
+- **Main methodologies:** Clean Code, TDD, MVP Canvas
 
-### **Accenture** - Digital Business Integration Analyst
+[![alt text](assets/google-play-badge.png "Budbuds.us - Google Play")](https://play.google.com/store/apps/details?id=us.budbuds)
+[![alt text](assets/apple-store-badge.png "Budbuds.us - Apple Store")](https://itunes.apple.com/us/app/budbuds-us/id1112825348)
 
+#### DONG - De olho na gôndola
+
+**Fullstack Engineer**\
+`01/03/2019 – 01/09/2019`
+
+Trade marketing application with geolocated GPS, dynamic data collection backoffice controlled, visit history, etc.
+
+- **Main Technologies:** React Native, GraphQL, NodeJs, Hapi, SQL Server, Redux
+- **Main methodologies:** Clean Code, TDD, Functional programming
+
+[![alt text](assets/google-play-badge.png "DONG - Google Play")](https://play.google.com/store/apps/details?id=com.appmais)
+
+#### [bitPreço](https://market.bitpreco.com) / [Simulador Clube Bitcoin](https://simulador.clubebitcoin.net/login) - Cripto Currency Marketplace and Simulator
+
+**Front-end Architect**\
+`06/2018 – 10/2018`
+
+Initially an crypto coins exchange project which eventually turned into a market place of crypto coins. Also counts with the Club Bitcoin Simulator, a simulator for the crypto currencies market.
+
+- **Main Technologies:** ReactJS, RestAPI, Redux, Redux-Saga, Material-UI, Cypress, Jest, Enzyme, StoryBook
+- **Main methodologies:** Clean Code, TDD, Mobile First, Lean Startup
+
+### **Devires Tecnologia**
+
+**Fullstack Engineer**\
+`01/08/2019 - 27/03/2020`
+
+#### QSaúde Web Ecommerce Portal
+
+Web portal for health plan adherence
+
+- **Main Technologies:** ReactJS, GraphQL, NodeJS, SQL Server, Typescript, Docker, Azure, Jest, Cypress
+- **Main methodologies:** Clean Architecture, Agile, Scrum, Object Oriented Programming
+
+#### QSaúde Mobile Application
+
+Application for health plan with features such as telemedicine, appointment scheduling, map of hospitals, offices and laboratories, personal health questionnaire among other features
+
+- **Main Technologies:** React Native, GraphQL, NodeJS, Typescript, Azure, Jest, Detox
+- **Main methodologies:** Agile, Scrum, Functional Programming
+
+[![alt text](assets/google-play-badge.png "QSaude - Google Play (Waiting Release)")](https://play.google.com/store/apps/details?id=br.com.qsaude&hl=es_BO)
+[![alt text](assets/apple-store-badge.png "Qsaude - Apple Store")](https://apps.apple.com/br/app/qsa%C3%BAde/id1449620787)
+
+### **Accenture**
+
+**Digital Business Integration Analyst**\
 `01/08/2017 – 01/11/2017`
 
-### **FCamara Formação e Consultoria** - FullStack Developer
+#### Vai de Visa - Visa's campaign web app
 
-`07/12/2016 – 09/06/2017`
+- **Main Technology:** Angular 4
 
-##### Linkapi - Plataforma de Integração
+### **FCamara Training and Consulting**
 
-* **Principais tecnologias:** NodeJS, MongoDB, Docker, RabbitMQ, Pm2, Mocha, ES6
-* **Principais metodologias:** Clean Code, TDD, MVP Canvas
+**Fullstack Developer**\
+`07/04/2017 – 09/06/2017`
 
-##### Bematech GDI - App em Ionic 2 para Gestão de Relatórios de PDV
+#### Linkapi
 
-* **Principais tecnologias:** Ionic 2, Angular2, Typescript
-* **Principais metodologias:** Clean Code
+Integration Platform
 
-[![alt text](assets/google-play-badge.png 'Bematech GDI - Google Play')](https://play.google.com/store/apps/details?id=com.bematech.gdi)
-[![alt text](assets/apple-store-badge.png 'Bematech GDI - Apple Store')](https://itunes.apple.com/br/app/bematech-gdi/id1062372210)
+- **Main Technologies:** NodeJS, MongoDB, Docker, RabbitMQ, Pm2, Mocha, ES6, AngularJs
+- **Main methodologies:** Clean Code, TDD, MVP Canvas
 
-##### Projeto de análise de performance de e-commerce em ASP.NET
+**Trainee**\
+`07/12/2016 – 07/04/2017`
 
-* **Principais tecnologias:** Visual Studio Web Test, New Relic, Dynatrace, Fiddler
+#### Bematech GDI
 
-##### Ganhador do Big Hackaton-ONU na Campus Party 10 Projeto Health Keeper
+App in Ionic 2 for POS Report Management
 
-* **Principais tecnologias:** AngularJs, NodeJS, MongoDB, Express
+- **Main Technologies:** Ionic 2, Angular2, Typescript
 
-* **Principais metodologias:** MVP Canvas, Lean Startup, Desenvolvimento Ágil
+[![alt text](assets/google-play-badge.png "Bematech GDI - Google Play")](https://play.google.com/store/apps/details?id=com.bematech.gdi)
+[![alt text](assets/apple-store-badge.png "Bematech GDI - Apple Store")](https://itunes.apple.com/br/app/bematech-gdi/id1062372210)
 
-### **Ângelo Ocanã Consultoria e Treinamentos** - Estagiário
+#### ASP<span>.NET E-commerce performance analysis
 
+- **Main Technologies:** Visual Studio Web Test, New Relic, Dynatrace, Fiddler
+
+##### Winner of the Big Hackaton-ONU at Campus Party 10 - Health Keeper Project
+
+- **Main Technologies:** AngularJs, NodeJS, MongoDB, Express
+
+### **Ângelo Ocanã Consulting and Training**
+
+**Trainee**\
 `13/04/2016 – 13/10/2016`
 
-##### Staffgeist - Desenvolvimento Web App para avaliação de ambiente de trabalho.
+#### Staffgeist - Web App for Workplace Assessment
 
-* **Principais tecnologias:** MVC, API, Angular JS, .NET 4.5 utilizando linguagem C#
+- **Main Technologies:** MVC, API, Angular JS, .NET 4.5 using C# language
 
-* **Principais metodologias:** Domain Driven Design (DDD), Test Domain Development (TDD)
+- **Main methodologies:** Domain Driven Design (DDD), Test Domain Development (TDD)
 
-* **Banco de Dados:** MongoDB
+- **Database:** MongoDB
 
-### **Reorder Consultoria de Informática** - Analista de Suporte
+### **Reorder IT Consulting**
 
+**Support Analyst**\
 `19/08/2016 – 13/06/2016`
 
-Site suporte terceirizado em Data Center Tier III T-Systems: Administração de fitas de backup, monitoração física de servidores e infraestrutura, validação de incidentes e mudanças, acompanhamento técnico, instalação e desinstalação de equipamentos, recebimento e remessa de equipamentos, entre outras atribuições.
+Tier III Data Center Support: T-Systems: Backup tape management, physical server and infrastructure monitoring, incident and change validation, technical follow-up, installation and uninstallation of equipment, receipt and shipment of equipment, among other duties.
 
-### **VIP Systems** - Analista Suporte Jr.
+### **VIP Systems**
 
+**Support Analyst**\
 `02/2013 - 06/2013`
 
-Atendimento e suporte para sistemas desenvolvidos na empresa, como de controle de acesso, sistemas de caixa, tecnologia RFID, etc... Manutenção e montagem de equipamentos para clientes e demonstrações comerciais, incluindo equipamentos RFID.
+Support for systems developed in the company, such as access control, cash systems, RFID technology, etc. Maintenance and assembly of equipment for customers and commercial demonstrations, including RFID equipment.
 
-### **Sitel Brasil** - Analista de Suporte Jr.
+### **Sitel Brasil**
 
+**Support Analyst**\
 `12/2012 - 02/2013`
 
-Atendimento e suporte para equipamentos em Garantia Lenovo.
+Service and support for Lenovo equipment warranty.
 
 ---
 
-## Perfil
+## Profile
 
-### Formação
+### Formation
 
-#### **Analise e Desenvolvimento de Sistemas**
+#### **Analysis and Systems Development**
 
 Fatec Carapicuiba
 
-`02/2016 – Atual`
+`02/2016 – 12/2016`
 
 `02/2013 – 06/2013`
 
-#### **Informática para Internet**
+#### **Web Design**
 
 ITB Maria Sylvia Chaluppe Mello
 
 `07/2012 - 12/2012`
 
-#### **Ensino Médio**
+#### **High School**
 
-Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+Federal Institute of Education, Science and Technology of São Paulo
 
-#### **Curso Teens Office**
+#### **Teens Office Course**
 
 Microcamp Barueri
 
 `01/2003 - 07/2004`
 
----
+### Courses
 
-### Cursos
+- **Building Scalable APIs with GraphQL,** Samer Buna – Pluralsight
+- **Building Data-driven React Applications with Relay, GraphQL, and Flux,** Samer Buna – Pluralsight
+- **Advanced Node.js,** Samer Buna – Pluralsight
+- **Understanding Machine Learning with Python,** Jerry Kurata – Pluralsight
+- **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
+- **See more at** [pluralsight.com](app.pluralsight.com/profile/alanmarcell)
 
-* **Building Scalable APIs with GraphQL,** Samer Buna – Pluralsight
-* **Building Data-driven React Applications with Relay, GraphQL, and Flux,** Samer Buna – Pluralsight
-* **Advanced Node.js,** Samer Buna – Pluralsight
-* **Understanding Machine Learning with Python,** Jerry Kurata – Pluralsight
-* **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
+### Languages
 
-[![alt text](assets/pluralsight.png 'Pluralsight')](https://app.pluralsight.com/profile/alanmarcell)
+- **English:** Advanced
+- **Spanish:** Proficient
+- **French:** Beginner
 
-### Idiomas
+### Knowledge
 
-* **Inglês:** Avançado
-* **Espanhol:** Intermediário
-* **Francês:** Iniciante
+**Tools:**
+NodeJS, React, GraphQL, Docker, Detox, Cypress, Enzyme, Angular, Typescript, RestAPI, HTML, CSS/SASS, MongoDB, Postgres, Ionic, Mocha, Jest, AWS, git.
 
-### Conhecimentos
-
-**Tecnologias:**
-NodeJS, React, GraphQL, Docker, Angular, Typescript, Web API, HTML5, SASS, MongoDB, Ionic2, Mocha, Python, AWS Lambda.
-
-**Metodologias:**
+**Methodologies:**
 Functional Programming, Test Driven Design (TDD), Domain Driven Design (DDD), MVP Canvas, Design Thinking, Lean StartUp, Clean Code, Mobile First.
-
-**Ferramentas:**
-Visual Studio, VSCode, MongoChef, SourceTree, Github, Bitbucket.
