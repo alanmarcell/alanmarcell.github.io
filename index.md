@@ -4,27 +4,49 @@
 **Github:** [github.com/alanmarcell](github.com/alanmarcell)  
 **Linkedin:** [linkedin.com/in/alanmarcell](https://linkedin.com/in/alanmarcell)
 
-## Resume
+---
 
+## Resume
+---
 ### Professional Goal
 
 FullStack Developer
 
+---
+
 ### Preferred Technologies
 
-React, Redux, GraphQL, NodeJS, Docker, ES6, MongoDB, Detox, Cypress, Jest.
+React, React Native, Redux, GraphQL, NodeJS, Docker, ES6, Postgre, MongoDB, Detox, Cypress, Jest.
+
+---
 
 ### Preferred Methodologies
 
-Functional Programming, Test Driven Design (TDD), Clean Code, Mobile First.
+Functional Programming, Test Driven Design (TDD), Clean Code, Mobile First, Agile, Micro-services, Event Oriented Architecture, Serverless.
+
+---
 
 ### Preferred Tools
 
-Visual Studio Code, Gitlab, Manjaro Linux, MacOS, Terminator, Fish, Travis, Netlify, Bitrise.
+Visual Studio Code, Gitlab, Manjaro Linux, MacOS, Terminator, Fish, Travis, Netlify, Bitrise, Dynatrace, JMeter, NPM Registry.
 
 ---
 
 ## Professional experience
+---
+### **Qintess**
+
+**Fullstack Engineer** - `20/04/2020 - Current`
+
+#### Natura - Global Sales Platform - Technical Evolutions Squad
+
+In this squad our main goals was to increase performance and resilience while decreasing the infrastructure cost.
+The initial apdex was 0.79 and after 6 months of technical evolutions it reached 0.96. This achievement did not demanded any increment in infrastructure cost, even better we could reduce the cost by around 5%.
+
+- **Main Technologies:** NodeJS, ReactJS, GraphQL, Postgre, Scylla, Docker, AWS, Jest, Jenkins, Dynatrace, JMeter, NPM Registry.
+- **Main methodologies:** Micro-services, Serverless, Event Oriented Architecture, Agile, Object Oriented Programming
+
+---
 
 ### **Amodev** - Associate Consultant
 
@@ -34,7 +56,7 @@ Visual Studio Code, Gitlab, Manjaro Linux, MacOS, Terminator, Fish, Travis, Netl
 
 Crop control and evaluation cross-platform application developed in React Native
 
-- **Main Technologies:** React Native, Graphql, NodeJs, Docker, Hapi, Postgress, Redux, Redux-Saga, Detox, Jest, Enzyme
+- **Main Technologies:** React Native, Graphql, NodeJs, Docker, Hapi, Postgre, Redux, Redux-Saga, Detox, Jest, Enzyme
 - **Main methodologies:** Clean Code, TDD, MVP Canvas
 
 [![alt text](assets/google-play-badge.png "Budbuds.us - Google Play")](https://play.google.com/store/apps/details?id=us.budbuds)
@@ -60,6 +82,8 @@ Initially an crypto coins exchange project which eventually turned into a market
 - **Main Technologies:** ReactJS, RestAPI, Redux, Redux-Saga, Material-UI, Cypress, Jest, Enzyme, StoryBook
 - **Main methodologies:** Clean Code, TDD, Mobile First, Lean Startup
 
+---
+
 ### **Devires Tecnologia**
 
 **Fullstack Engineer** - `01/08/2019 - 27/03/2020`
@@ -81,6 +105,8 @@ Application for health plan with features such as telemedicine, appointment sche
 [![alt text](assets/google-play-badge.png "QSaude - Google Play (Waiting Release)")](https://play.google.com/store/apps/details?id=br.com.qsaude&hl=es_BO)
 [![alt text](assets/apple-store-badge.png "Qsaude - Apple Store")](https://apps.apple.com/br/app/qsa%C3%BAde/id1449620787)
 
+---
+
 ### **Accenture**
 
 **Digital Business Integration Analyst** - `01/08/2017 – 01/11/2017`
@@ -88,6 +114,8 @@ Application for health plan with features such as telemedicine, appointment sche
 #### Vai de Visa - Visa's campaign web app
 
 - **Main Technology:** Angular 4
+
+---
 
 ### **FCamara Training and Consulting**
 
@@ -119,6 +147,8 @@ App in Ionic 2 for POS Report Management
 
 - **Main Technologies:** AngularJs, NodeJS, MongoDB, Express
 
+---
+
 ### **Ângelo Ocanã Consulting and Training**
 
 **Trainee** - `13/04/2016 – 13/10/2016`
@@ -131,17 +161,23 @@ App in Ionic 2 for POS Report Management
 
 - **Database:** MongoDB
 
+---
+
 ### **Reorder IT Consulting**
 
 **Support Analyst** - `19/08/2016 – 13/06/2016`
 
 Tier III Data Center Support: T-Systems: Backup tape management, physical server and infrastructure monitoring, incident and change validation, technical follow-up, installation and uninstallation of equipment, receipt and shipment of equipment, among other duties.
 
+---
+
 ### **VIP Systems**
 
 **Support Analyst** - `02/2013 - 06/2013`
 
 Support for systems developed in the company, such as access control, cash systems, RFID technology, etc. Maintenance and assembly of equipment for customers and commercial demonstrations, including RFID equipment.
+
+---
 
 ### **Sitel Brasil**
 
@@ -155,6 +191,8 @@ Service and support for Lenovo equipment warranty.
 
 ### Formation
 
+---
+
 #### **Analysis and Systems Development**
 
 Fatec Carapicuiba
@@ -163,21 +201,29 @@ Fatec Carapicuiba
 
 `02/2013 – 06/2013`
 
+---
+
 #### **Web Design**
 
 ITB Maria Sylvia Chaluppe Mello
 
 `07/2012 - 12/2012`
 
+---
+
 #### **High School**
 
 Federal Institute of Education, Science and Technology of São Paulo
+
+---
 
 #### **Teens Office Course**
 
 Microcamp Barueri
 
 `01/2003 - 07/2004`
+
+---
 
 ### Courses
 
@@ -188,16 +234,10 @@ Microcamp Barueri
 - **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
 - **See more at** [pluralsight.com](app.pluralsight.com/profile/alanmarcell)
 
+---
+
 ### Languages
 
 - **English:** Advanced
 - **Spanish:** Proficient
 - **French:** Beginner
-
-### Knowledge
-
-**Tools:**
-NodeJS, React, GraphQL, Docker, Detox, Cypress, Enzyme, Angular, Typescript, RestAPI, HTML, CSS/SASS, MongoDB, Postgres, Ionic, Mocha, Jest, AWS, git.
-
-**Methodologies:**
-Functional Programming, Test Driven Design (TDD), Domain Driven Design (DDD), MVP Canvas, Design Thinking, Lean StartUp, Clean Code, Mobile First.
