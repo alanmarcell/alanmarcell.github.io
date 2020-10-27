@@ -7,7 +7,9 @@
 ---
 
 ## Resume
+
 ---
+
 ### Professional Goal
 
 FullStack Developer
@@ -60,6 +62,7 @@ Crop control and evaluation cross-platform application developed in React Native
 - **Main methodologies:** Clean Code, TDD, MVP Canvas
 
 [![alt text](assets/google-play-badge.png "Budbuds.us - Google Play")](https://play.google.com/store/apps/details?id=us.budbuds)
+
 [![alt text](assets/apple-store-badge.png "Budbuds.us - Apple Store")](https://itunes.apple.com/us/app/budbuds-us/id1112825348)
 
 #### DONG - De olho na gôndola
@@ -103,6 +106,7 @@ Application for health plan with features such as telemedicine, appointment sche
 - **Main methodologies:** Agile, Scrum, Functional Programming
 
 [![alt text](assets/google-play-badge.png "QSaude - Google Play (Waiting Release)")](https://play.google.com/store/apps/details?id=br.com.qsaude&hl=es_BO)
+
 [![alt text](assets/apple-store-badge.png "Qsaude - Apple Store")](https://apps.apple.com/br/app/qsa%C3%BAde/id1449620787)
 
 ---
