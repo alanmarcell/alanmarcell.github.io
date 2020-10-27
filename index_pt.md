@@ -59,6 +59,7 @@ O apdex inicial foi de 0,79 e após 6 meses de evoluções técnicas atingiu 0,9
 
 Aplicativo de plataforma cruzada de avaliação e controle de safra desenvolvido em React Native
 
+
 - **Principais tecnologias:** React Native, Graphql, NodeJs, Docker, Hapi, Postgre, Redux, Redux-Saga, Detox, Jest, Enzyme
 - **Principais metodologias:** Clean Code, TDD, MVP Canvas
 
