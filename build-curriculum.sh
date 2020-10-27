@@ -1,9 +1,9 @@
 #!/bin/sh
 
-pandoc index.md  -s -o assets/AlanMarcell_en.pdf
-pandoc index.md -o assets/AlanMarcell_en.odt
-pandoc index.md -t docx -o assets/AlanMarcell_en.docx
+pandoc README.md  -s -o assets/AlanMarcell_en.pdf
+pandoc README.md -o assets/AlanMarcell_en.odt
+pandoc README.md -t docx -o assets/AlanMarcell_en.docx
 
-pandoc curriculum.pt.md  -s -o assets/AlanMarcell_pt.pdf
-pandoc curriculum.pt.md -o assets/AlanMarcell_pt.odt
-pandoc curriculum.pt.md -t docx -o assets/AlanMarcell_pt.docx
+pandoc index_pt.md  -s -o assets/AlanMarcell_pt.pdf
+pandoc index_pt.md -o assets/AlanMarcell_pt.odt
+pandoc index_pt.md -t docx -o assets/AlanMarcell_pt.docx

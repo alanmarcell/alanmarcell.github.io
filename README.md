@@ -232,7 +232,7 @@ Microcamp Barueri
 - **Advanced Node.js,** Samer Buna – Pluralsight
 - **Understanding Machine Learning with Python,** Jerry Kurata – Pluralsight
 - **AWS Developer - An Introduction to AWS Lambda,** Steve Michelotti – Pluralsight
-- **See more at** [pluralsight.com](app.pluralsight.com/profile/alanmarcell)
+- **See more at** [pluralsight.com/profile/alanmarcell](https://app.pluralsight.com/profile/alanmarcell)
 
 ---
 
