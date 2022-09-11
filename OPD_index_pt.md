@@ -18,7 +18,7 @@ Programador FullStack
 
 ### Tecnologias preferidas
 
-React, React Native, Redux, GraphQL, NodeJS, Docker, ES6, Postgre, MongoDB, Detox, Cypress, Jest.
+React, React Native, Redux, GraphQL, NodeJS, Docker, ES6, PostgreSQL, MongoDB, Detox, Cypress, Jest.
 
 ---
 
